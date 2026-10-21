@@ -1,0 +1,37 @@
+
+name: Tu dong tong hop tin tuc
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  tong-hop:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Lay ma nguon
+        uses: actions/checkout@v4
+
+      - name: Cai Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Cai thu vien
+        run: pip install -r requirements.txt
+
+      - name: Tong hop tin tuc
+        run: python news.py
+
+      - name: Luu ban tin
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add NEWS.md
+          git diff --cached --quiet || git commit -m "Cap nhat ban tin"
+          git push

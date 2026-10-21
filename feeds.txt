@@ -1,0 +1,4 @@
+
+https://feeds.bbci.co.uk/news/technology/rss.xml
+https://techcrunch.com/feed/
+https://www.theverge.com/rss/index.xml

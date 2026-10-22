@@ -1,12 +1,48 @@
 # BAN TIN TUC TU DONG
 
-> Cap nhat lan cuoi: 21/10/2026 15:51 (gio Viet Nam)
+> Cap nhat lan cuoi: 22/10/2026 07:36 (gio Viet Nam)
 
 > Tong so bai: 30
 
 ---
 
-## 1. [Elon Musk confirms he is considering merging Tesla and SpaceX](https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss)
+## 1. [Trump's green card curbs test Indian tech workers' American dream](https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-10-21 23:06
+
+> With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.
+
+---
+
+## 2. [Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?](https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-10-21 23:04
+
+> Musk says there's "a lot to be gained" by combining the firms in what would be the biggest merger in history.
+
+---
+
+## 3. [Websites taken down worldwide as critical cyber-security update issued](https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-10-21 19:54
+
+> The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.
+
+---
+
+## 4. [Just Eat apologises for AI food mistakes after social media ridicule](https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-10-21 17:04
+
+> A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool.
+
+---
+
+## 5. [Elon Musk confirms he is considering merging Tesla and SpaceX](https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-10-21 08:42
@@ -15,16 +51,7 @@
 
 ---
 
-## 2. [Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?](https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-10-21 06:36
-
-> Musk says there's "a lot to be gained" by combining the firms in what would be the biggest merger in history.
-
----
-
-## 3. [The tech helping crack decades-old cold cases](https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss)
+## 6. [The tech helping crack decades-old cold cases](https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-10-20 23:13
@@ -33,7 +60,7 @@
 
 ---
 
-## 4. [OpenAI CEO Sam Altman wins dismissal of sister's lawsuit](https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss)
+## 7. [OpenAI CEO Sam Altman wins dismissal of sister's lawsuit](https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-10-20 19:42
@@ -42,7 +69,7 @@
 
 ---
 
-## 5. [Google resolves cloud outage affecting UK banks and websites](https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss)
+## 8. [Google resolves cloud outage affecting UK banks and websites](https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-10-20 18:03
@@ -51,7 +78,7 @@
 
 ---
 
-## 6. [UK asks Apple to widen access to its payment tech](https://www.bbc.co.uk/news/articles/cqm26zzl0k12o?at_medium=RSS&at_campaign=rss)
+## 9. [UK asks Apple to widen access to its payment tech](https://www.bbc.co.uk/news/articles/cqm26zzl0k12o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-10-20 12:29
@@ -60,7 +87,7 @@
 
 ---
 
-## 7. [Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors](https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss)
+## 10. [Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors](https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-10-19 21:12
@@ -69,209 +96,182 @@
 
 ---
 
-## 8. [US bans China's DeepSeek from government in race for AI dominance](https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-10-19 18:21
-
-> The Chinese technology is removed from most US government agencies as race for AI dominance steps up.
-
----
-
-## 9. [Uber wins bid to throw out £200m black cab claims](https://www.bbc.co.uk/news/articles/cv5ynp1j45x2o?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-10-19 12:58
-
-> Claims that Uber misled TfL over its licence were thrown out because they were brought too late.
-
----
-
-## 10. [Musk and Anthropic pledge public share giveaways](https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-10-19 09:38
-
-> Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing.
-
----
-
-## 11. [Anthropic pitches AI safety bill that may block a model if 50+ people could be killed](https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/)
+## 11. [Tesla says it will start selling Cybercabs by end of year](https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-20 23:01
+- **Thoi gian dang:** 2026-10-22 00:17
 
-> The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.
+> Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering wheel and other traditional controls. During the company’s third-quarter earnings call, Lars Moravy, vice president of engineering at Tesla, […]
 
 ---
 
-## 12. [SpaceX and Tesla boards form special committees to review merger](https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/)
+## 12. [Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown](https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-20 22:57
+- **Thoi gian dang:** 2026-10-21 22:51
 
-> Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.
+> Blackstone’s AI head on why the PE giant isn't panicked by market jitters.
 
 ---
 
-## 13. [Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate](https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/)
+## 13. [Meta wants to pay for its broad AI buildout with a newly created class of stock](https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-20 22:24
+- **Thoi gian dang:** 2026-10-21 22:45
 
-> Before you share the Netflix documentary "AI Gone Rogue," take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went "full doomer mode" and isn't accurate.
+> The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.
 
 ---
 
-## 14. [Anthropic’s cloud partnerships are getting messy](https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/)
+## 14. [Airbnb limits chores for guests, sparking backlash from hosts](https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-20 21:25
+- **Thoi gian dang:** 2026-10-21 22:16
 
-> Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.
+> Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.
 
 ---
 
-## 15. [SpaceX’s AI business is beating expectations](https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/)
+## 15. [TechCrunch Founder Summit 2026: Everything you need to know](https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-20 20:40
+- **Thoi gian dang:** 2026-10-21 21:16
 
-> SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.
+> TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.
 
 ---
 
-## 16. [OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business](https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/)
+## 16. [Meta says Muse has over 10M users, with shopping a top activity](https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-20 20:35
+- **Thoi gian dang:** 2026-10-21 21:14
 
-> OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.
+> Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.
 
 ---
 
-## 17. [Google is bringing a more personal version of its Gemini AI assistant to your car](https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/)
+## 17. [Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation](https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-20 20:00
+- **Thoi gian dang:** 2026-10-21 20:57
 
-> Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving.
+> Just 9 months after raising an $180 million seed round, Flapping Airplanes has landed $1 billion Series A for its mission to build AI models "without ingesting half the internet."
 
 ---
 
-## 18. [GM to close Detroit battery-assembly plant, but not for reasons you might think](https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/)
+## 18. [Tesla starts Optimus robot production in California as profit falls 43%](https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-20 19:32
+- **Thoi gian dang:** 2026-10-21 20:33
 
-> GM is shuttering the Brownstown Battery Assembly Plant, though the closure has nothing to do with the automaker's electrification strategy.
+> Tesla's revenue was flat and its expenses skyrocketed as it pressed the accelerator on its Optimus robots, AI, and autonomous driving.
 
 ---
 
-## 19. [Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers](https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/)
+## 19. [Recursive launches Flint, a laptop coding model it says was largely built by AI](https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-20 18:38
+- **Thoi gian dang:** 2026-10-21 20:27
 
-> Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.
+> Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.
 
 ---
 
-## 20. [ChatGPT now lets you lock your chats](https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/)
+## 20. [Automattic begins layoffs following board upheaval and executive departures](https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-20 18:36
+- **Thoi gian dang:** 2026-10-21 20:15
 
-> The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.
+> Automattic has begun laying off employees across multiple teams, including WordPress.com and its enterprise business, following a board shakeup and a series of executive departures. Sources say more cuts could follow as the company looks to improve its finances.
 
 ---
 
-## 21. [YouTube might be testing hiding the dislike button](https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu)
+## 21. [YouTube says it isn’t testing hiding the dislike button](https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> YouTube appears to be testing hiding the dislike button on videos, as reported by 9to5Google. At least two users on X have recently shared screenshots of the dislike button now being placed in the three-dots submenu, and a user on Reddit also shared an image of the dislike button being absent for them. Right now, […]
+> On Tuesday, I published a story about how YouTube appeared to be testing hiding the dislike button on videos, with at least two users on X sharing screenshots of the dislike button moved into the three-dot menu. But a YouTube spokesperson, in a Wednesday statement to The Verge, confirmed that YouTube is "not testing hiding […]
 
 ---
 
-## 22. [Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit](https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed)
+## 22. [Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?](https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or […]
+> For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet. During today's third-quarter earnings call, the company finally gave itself a deadline. According to Tesla VP for Autonomous Driving Ashok Elluswamy, Tesla owners will be able […]
 
 ---
 
-## 23. [Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program](https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers)
+## 23. [Data centers could erase decades of air quality gains](https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Donald Trump and Vice President JD Vance said on Tuesday that the Trump administration was giving right-wing YouTuber Nick Shirley $10,000 and launching a $25 million bounty program for members of the public to report fraud. In December 2025, Shirley published a viral video alleging fraud at daycares in Minnesota that were operated by members […]
+> A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How developers and utilities meet that demand - with gas […]
 
 ---
 
-## 24. [Google’s more personalized Gemini AI is heading to your car](https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto)
+## 24. [Meta to create a new class of shares to fund AI push](https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you're driving […]
+> Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027. "The scale of investment required to compete, sustain growth, expand infrastructure, […]
 
 ---
 
-## 25. [Tesla and SpaceX are discussing a possible merger, Musk says](https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees)
+## 25. [New York’s first microdrama film festival searches for its audience](https://www.theverge.com/entertainment/1014494/alza-vertical-film-festival-bill-block-salvador-paskowitz-microdramas-verticals)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Tesla and SpaceX have formed special committees to discuss a possible merger, Elon Musk said during the latter's third quarter earnings call Tuesday. Musk, who serves as CEO of both companies, said the special committees were formed at the request of shareholders and consist of independent directors (though he did not name them). He also […]
+> It remains to be seen if people really want to watch vertical content on horizontal TV screens, but many filmmakers and creators were confident that their latest projects would play well at Alza - New York City's first microdrama film festival. Founded by former Tribeca Festival chief operating officer Pete Torres, Alza, which took place […]
 
 ---
 
-## 26. [SpaceX will try catching Starship and its booster for first time, Musk says](https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says)
+## 26. [Meta says it would’ve made over $22 billion if it didn’t have to pay a child safety settlement](https://www.theverge.com/tech/1015877/meta-q3-2026-earnings-child-safety-settlement)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> SpaceX CEO Elon Musk said the company would attempt to catch Starship and its booster next month, with the goal of recovering the entire orbital launch system for the first time. If successful, Musk said, the attempt would mark the first time in history an orbital launch vehicle has been fully recovered. "This is a […]
+> Meta had to shell out $9.89 billion to pay for a chunk of the child safety settlement it reached with US attorneys general. That's according to the company's third-quarter earnings report released on Wednesday, which says Meta's income from operations would have been $22.89 billion without the settlement. In August, Meta agreed to pay $17.1 […]
 
 ---
 
-## 27. [Netflix is telling investors not to worry, even though you’re watching less and less](https://www.theverge.com/streaming/1014826/netflix-earnings-q3-2026-viewing-time)
+## 27. [PHP: The three letters that shut down sites all over the internet today](https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Netflix is making monetization a top priority amid reports of falling viewing time. As part of its third-quarter earnings report on Tuesday, Netflix lists improvements to monetization as one of its main focuses going forward, alongside efforts to boost entertainment value and leverage new technology. The streaming giant doesn't say exactly how it plans to […]
+> Two bugs found with AI are behind major issues today for 4chan, DeviantArt, Wikipedia, and the blog where the bar around the corner posts pictures of people's dogs. The "critical vulnerabilities" were discovered in the PHP programming language, which underpins much of the internet, including any site built on WordPress. But it's far bigger than […]
 
 ---
 
-## 28. [Snap is paying Robert Downey Jr. to do the Iron Man thing](https://www.theverge.com/tech/1014869/snap-specs-robert-downey-jr)
+## 28. [Flying Roadsters can’t lift Tesla’s flat Q3 revenues](https://www.theverge.com/transportation/1015790/tesla-q3-2026-earnings-revenue-profit-roadster-spacex-merger)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Snap has a new brand ambassador for its Specs AR glasses: Iron Man actor Robert Downey Jr. The company has brought on Downey as Specs' "Chief Customer Experience Officer" and has published several videos featuring Downey showcasing the capabilities of the new glasses, including as a tool to get help with a putt, practice art, […]
+> As the smoke clears from its outrageous Roadster demo, Tesla reported Q3 earnings on Wednesday - and the cold reality is that revenue has flatlined. Tesla said it earned $1.7 billion in net income on $28.0 billion in revenue in the quarter that ended in September 2026. Revenues were flat, while profits dropped 4 percent […]
 
 ---
 
-## 29. [SpaceX says big AI growth fueled revenue jump](https://www.theverge.com/science/1014150/spacex-q3-2026-earnings)
+## 29. [Bose acquires Skullcandy to help it reach a wider audience](https://www.theverge.com/tech/1015276/bose-acquisition-skullcandy-headphones-earbuds-speakers)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> SpaceX announced revenues of $14.6 billion in its Q3 earnings on Tuesday, which it says was a growth of 161 percent year-over-year "fueled by our Super Intelligence (SI) segment and accelerated growth in Connectivity." While its Space division posted a $7 million loss in income from operations, its Connectivity group posted income from operations $2.4 […]
+> Bose announced today it has acquired Skullcandy. Although the two companies are competitors in the consumer audio space, Skullcandy recently partnered with its new owner to bring several of Bose's audio technologies - including its head-tracking spatial audio and excellent active noise cancellation (ANC) - to products like the Skullcandy Crusher 1080 ANC headphones and […]
 
 ---
 
-## 30. [Oura adds two new cardiovascular health tracking features to its smart rings](https://www.theverge.com/tech/1014712/oura-smart-rings-track-cardio-effort-vo2-max-cardiovascular)
+## 30. [Airbnb bans making guests do dishes and take out the trash](https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Oura is introducing two new cardiovascular-focused health tracking features to its smart rings designed to help users better understand the effect regular workouts and exercise are having on their long-term health, and whether they need to ramp it up or dial things down. Cardio Effort and automatic VO2 Max (previously known as Cardio Capacity) are […]
+> Checking out of your next Airbnb might be less of a hassle now that the company is banning hosts from including time-consuming chores in their house rules. Airbnb's updated house rules policy, which starts with reservations booked on or after November 20th, says hosts can't ask guests to "complete tasks that require significant effort or […]
 
 ---

@@ -1,12 +1,48 @@
 # BAN TIN TUC TU DONG
 
-> Cap nhat lan cuoi: 23/10/2026 07:38 (gio Viet Nam)
+> Cap nhat lan cuoi: 24/10/2026 07:41 (gio Viet Nam)
 
 > Tong so bai: 30
 
 ---
 
-## 1. [Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax](https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss)
+## 1. [UK to invest £100m in 'world first' AI Biosecurity Lab](https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-10-24 00:05
+
+> The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.
+
+---
+
+## 2. [What is PHP and why did it spark a global cyber-security scramble?](https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-10-23 12:24
+
+> AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.
+
+---
+
+## 3. ['It's been relentless' say IT workers on frontline of PHP cyber-security scramble](https://www.bbc.co.uk/news/articles/cxnv025d8qpmo?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-10-23 12:00
+
+> IT and cyber experts have told the BBC about their struggles in the last 48 hours to update their systems.
+
+---
+
+## 4. [The Indian workers filming their work to train AI](https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-10-23 08:04
+
+> Indian workers are being paid to film themselves at work and the footage is used to train AI.
+
+---
+
+## 5. [Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax](https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-10-22 18:26
@@ -15,7 +51,7 @@
 
 ---
 
-## 2. [Race to update services' computer systems after cyber-security flaw found](https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss)
+## 6. [Race to update services' computer systems after cyber-security flaw found](https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-10-22 17:12
@@ -24,16 +60,7 @@
 
 ---
 
-## 3. [What is PHP and why did it spark a global cyber-security scramble?](https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-10-22 11:15
-
-> AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.
-
----
-
-## 4. [Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb](https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o?at_medium=RSS&at_campaign=rss)
+## 7. [Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb](https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-10-22 10:17
@@ -42,7 +69,7 @@
 
 ---
 
-## 5. ['500 new vulnerabilities' found in government, says AI minister](https://www.bbc.co.uk/news/videos/c6y8lvg2p50po?at_medium=RSS&at_campaign=rss)
+## 8. ['500 new vulnerabilities' found in government, says AI minister](https://www.bbc.co.uk/news/videos/c6y8lvg2p50po?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-10-22 10:08
@@ -51,7 +78,7 @@
 
 ---
 
-## 6. [UK working to identify exposure after global cyber-security warning](https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss)
+## 9. [UK working to identify exposure after global cyber-security warning](https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-10-22 08:23
@@ -60,7 +87,7 @@
 
 ---
 
-## 7. [Trump's green card curbs test Indian tech workers' American dream](https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss)
+## 10. [Trump's green card curbs test Indian tech workers' American dream](https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-10-21 23:06
@@ -69,209 +96,182 @@
 
 ---
 
-## 8. [Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?](https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-10-21 23:04
-
-> Musk says there's "a lot to be gained" by combining the firms in what would be the biggest merger in history.
-
----
-
-## 9. [Websites taken down worldwide as critical cyber-security update issued](https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-10-21 19:54
-
-> The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.
-
----
-
-## 10. [Just Eat apologises for AI food mistakes after social media ridicule](https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-10-21 17:04
-
-> A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool.
-
----
-
-## 11. [Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta](https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/)
+## 11. [Startups don’t need to go viral to win customers](https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-22 23:50
+- **Thoi gian dang:** 2026-10-23 23:07
 
-> A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the "billionaire's tax," should the measure be voted into law.
+> At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.
 
 ---
 
-## 12. [Warhound raises $200M to engineer war dogs and arm them with Anduril gear](https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/)
+## 12. [OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”](https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-22 23:15
+- **Thoi gian dang:** 2026-10-23 23:05
 
-> Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.
+> OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.
 
 ---
 
-## 13. [As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier](https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/)
+## 13. [Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell](https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-22 22:34
+- **Thoi gian dang:** 2026-10-23 21:59
 
-> The digital asset unit, helmed by Chris Dixon, broadens its scope.
+> The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a "nap," and summersaulted on voice command.
 
 ---
 
-## 14. [OpenAI working on new $30B raise at $1.25T valuation ahead of IPO](https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/)
+## 14. [VCs, Superhuman Mail founder share red flags about product-market fit](https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-22 22:08
+- **Thoi gian dang:** 2026-10-23 20:57
 
-> Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.
+> Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products.
 
 ---
 
-## 15. [Rivian buys world model startup to accelerate self-driving ambitions](https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/)
+## 15. [TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now](https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-22 21:05
+- **Thoi gian dang:** 2026-10-23 20:03
 
-> Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.
+> TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion.
 
 ---
 
-## 16. [Arc browser sunsets December 22 as The Browser Company doubles down on Dia](https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/)
+## 16. [Carta and NewView partner, hoping to entice more startups to let employees sell shares early](https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-22 20:01
+- **Thoi gian dang:** 2026-10-23 19:25
 
-> Arc was fiercely beloved by a dedicated group of enthusiasts, but it never quite became the mass-market Chrome alternative its makers once envisioned.
+> A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.
 
 ---
 
-## 17. [The secret to fast startup growth isn’t early sales, top names in tech say](https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/)
+## 17. [From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026](https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-22 20:00
+- **Thoi gian dang:** 2026-10-23 19:06
 
-> At this year’s Disrupt, Lovable GTM lead Luke Arno, Polsia's Ben Broca, and Theory Ventures’ Tomasz Tunguz gave founders some tips on how to achieve true sales success in the first 90 days.
+> Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.
 
 ---
 
-## 18. [1Password launches a way for AI agents to log in on your behalf without seeing your password](https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/)
+## 18. [Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels](https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-22 19:07
+- **Thoi gian dang:** 2026-10-23 16:26
 
-> The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.
+> Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.
 
 ---
 
-## 19. [Canva releases its first image generation model](https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/)
+## 19. [Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors](https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-22 19:00
+- **Thoi gian dang:** 2026-10-23 16:20
 
-> Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.
+> Top-funded fusion startup Commonwealth Fusion Systems received an $85 million award from the federal government to advance conductors for fusion power plants.
 
 ---
 
-## 20. [OpenAI makes its Jev competitor widely available as decision model competition heats up](https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/)
+## 20. [What some of Anthropic’s backers are worth before its IPO](https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-22 19:00
+- **Thoi gian dang:** 2026-10-23 16:02
 
-> OpenAI is launching its decision model to the world. Can it compete with the original Jev?
+> Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.
 
 ---
 
-## 21. [Etsy is cracking down on AI slop listings](https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing)
+## 21. [Xbox’s first chief operating officer is out after just a few months](https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that "many active buyers say they can't tell which items involve AI-generated content" and that sellers are "concerned about your work appearing alongside items that use […]
+> Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been at Microsoft for 21 years, serving as the head of Minecraft before being promoted to Xbox chief […]
 
 ---
 
-## 22. [Spotify says yes, it is busting people for using Family Plan sharing too widely](https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes)
+## 22. [OpenAI now trains its frontier AI models with no internet access](https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Spotify co-CEO Alex Norström confirmed on this week's earnings call that the company is trying to catch Spotify Family plan users who don't actually live together with a new QR code verification method that requires scanning the plan manager's phone. TechCrunch reports that in response to a question about the "crackdown," he called it a […]
+> OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content "without risk of affecting external systems." OpenAI paused training its frontier […]
 
 ---
 
-## 23. [The next-gen Xbox won’t cost you $1,800. It can’t. Can it?](https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial)
+## 23. [Abandoned Popcorn Time apps had to be disabled to prevent a zombie army](https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Fortune dropped a bombshell report on the future of gaming this week. According to the publication's Microsoft insiders, the next Xbox is projected to cost between $1,200 and $1,800 when it arrives in 2028. My first reaction: The next Xbox is dead on arrival. It's DOA. My second thought: Microsoft knows people won't pay that […]
+> Remember Popcorn Time, the app that served as an easy-to-use front end for streaming torrents of movies and TV shows? Development of the MPAA's least-favorite app of the 2010s has been abandoned for years, but the "Netflix of Piracy" software is still installed on millions of devices that are just waiting to join a bot […]
 
 ---
 
-## 24. [Canva’s first AI image model plans designs before generating them](https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model)
+## 24. [Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend](https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for "greater precision, consistency and control," according to an […]
+> Jack Dorsey's Block announced an AI model called Dessa that's trained "from scratch on nothing but human conversation," and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared by Dessa lead Ragavan Thurairatnam. The conversation between […]
 
 ---
 
-## 25. [PC shipments dropped over 20 percent in Q3 due to RAM price hikes](https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram)
+## 25. [Soundcore’s latest noise-crushing headphones are on sale for a new low price](https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Demand for new PCs took a hit after months of price hikes, with Counterpoint Research reporting global PC shipments fell 21 percent year-over-year in Q3 2026. That's in line with earlier reports from IDC and Omdia. It's not just PCs, either - that same quarter, smartphone shipments also hit a 14-year low. Counterpoint linked the […]
+> My colleague John Higgins considered Soundcore’s Space One some of the best budget noise-canceling headphones you could buy when they launched in 2023 — and their successor has only improved upon their winning formula, albeit with a $30 price increase. Thankfully, the Soundcore Space 2 are currently on sale at Amazon, Best Buy, and Walmart […]
 
 ---
 
-## 26. [Fall 2026 earnings watch](https://www.theverge.com/tech/1016506/fall-2026-earnings-watch)
+## 26. [Fi’s GPS-equipped dog trackers are on sale for 30 percent off](https://www.theverge.com/gadgets/1017196/fi-ultra-gps-dog-tracker-kirby-air-riders-deal-sale)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest wins and losses from around the tech sector and what it means for where the companies go next.
+> If your dog or cat is prone to getting lost, or you frequently go on adventures together, you can save 30 percent on Fi pet trackers through October 25th when you enter coupon code SCARY at checkout. The sale includes several satellite-connected trackers, including the Fi Ultra GPS we previously tested, which is down to […]
 
 ---
 
-## 27. [Meta’s AI could still scrape news sites, legal experts say](https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns)
+## 27. [Elon Musk’s dangerous grip on outer space](https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. "This does nothing to restrict the 'associated with your products or services' [language] that would let Meta scrape […]
+> Last week, Starshield - the version of SpaceX's Starlink used by the Ukrainian military - was throttled to block terminals traveling above certain speeds from accessing the service. The Ukrainian army's interceptors, which counter Russian drones carrying bombs, suddenly stopped working at high speeds, making it easier for Russia to attack the country's energy infrastructure […]
 
 ---
 
-## 28. [Meta turns Muse sharing back on](https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts)
+## 28. [The iPhone Duo should have been an iPad](https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at Claroc reported earlier this week that Muse the web […]
+> We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. On this episode of The Vergecast, David and Nilay […]
 
 ---
 
-## 29. [The FCC is beginning to block gadgets with ‘foreign surveillance chips’](https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole)
+## 29. [Now Google says it might use your Gmail and Google Photos data to target ads](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> On October 13th, Brendan Carr's FCC gave itself a new power - it can block gadgets for containing any computer chip made by any company on its list of potential threats to national security. Today, it's exercising that power for the first time, blocking two gadgets because they contain "foreign surveillance chips," the FCC claims. […]
+> Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous […]
 
 ---
 
-## 30. [Sure, let’s smoosh SpaceX and Tesla together, who cares](https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari)
+## 30. [The first broken iPhone Duos are here](https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you find this merger compelling likely has to do with the degree to which […]
+> The iPhone Duo officially goes on sale today, but a few units already have broken screens. According to posts on Reddit about the affected units, the issue appears to be happening at a similar spot on all of them: Some kind of problem shows up on the inner screen along the hinge and a strange […]
 
 ---

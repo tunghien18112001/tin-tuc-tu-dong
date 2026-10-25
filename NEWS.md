@@ -1,6 +1,6 @@
 # BAN TIN TUC TU DONG
 
-> Cap nhat lan cuoi: 24/10/2026 07:41 (gio Viet Nam)
+> Cap nhat lan cuoi: 25/10/2026 07:31 (gio Viet Nam)
 
 > Tong so bai: 30
 
@@ -96,182 +96,182 @@
 
 ---
 
-## 11. [Startups don’t need to go viral to win customers](https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/)
+## 11. [Starlink seems to be working normally again in Ukraine](https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-23 23:07
+- **Thoi gian dang:** 2026-10-24 20:46
 
-> At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.
+> Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.
 
 ---
 
-## 12. [OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”](https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/)
+## 12. [Will AI expose the rickety infrastructure of the internet?](https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-23 23:05
+- **Thoi gian dang:** 2026-10-24 20:15
 
-> OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.
+> The moment you realize the internet is "held together by glue and dreams."
 
 ---
 
-## 13. [Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell](https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/)
+## 13. [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-23 21:59
+- **Thoi gian dang:** 2026-10-24 19:00
 
-> The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a "nap," and summersaulted on voice command.
+> From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations.
 
 ---
 
-## 14. [VCs, Superhuman Mail founder share red flags about product-market fit](https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/)
+## 14. [Instacart reportedly discussed selling itself with DoorDash and Uber](https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-23 20:57
+- **Thoi gian dang:** 2026-10-24 16:30
 
-> Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products.
+> Instacart might sell itself to a larger competitor.
 
 ---
 
-## 15. [TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now](https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/)
+## 15. [Block’s new voice model sounds eerily human](https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-23 20:03
+- **Thoi gian dang:** 2026-10-24 16:00
 
-> TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion.
+> Block said that the voice model can run locally on a MacBook M4 Max
 
 ---
 
-## 16. [Carta and NewView partner, hoping to entice more startups to let employees sell shares early](https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/)
+## 16. [PHP-ocalypse: How two critical web bugs almost broke the internet](https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-23 19:25
+- **Thoi gian dang:** 2026-10-24 15:30
 
-> A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.
+> Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.
 
 ---
 
-## 17. [From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026](https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/)
+## 17. [These clever apps show off the iPhone Duo’s potential](https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-23 19:06
+- **Thoi gian dang:** 2026-10-24 15:00
 
-> Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.
+> From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.
 
 ---
 
-## 18. [Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels](https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/)
+## 18. [Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.](https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-23 16:26
+- **Thoi gian dang:** 2026-10-24 15:00
 
-> Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.
+> A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.
 
 ---
 
-## 19. [Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors](https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/)
+## 19. [The Boox Palma 2 Pro finally got me to stop reading on my phone](https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-23 16:20
+- **Thoi gian dang:** 2026-10-24 14:15
 
-> Top-funded fusion startup Commonwealth Fusion Systems received an $85 million award from the federal government to advance conductors for fusion power plants.
+> The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display.
 
 ---
 
-## 20. [What some of Anthropic’s backers are worth before its IPO](https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/)
+## 20. [Here are the top AI agents that can live in your text messages](https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-23 16:02
+- **Thoi gian dang:** 2026-10-24 14:00
 
-> Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.
+> We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.
 
 ---
 
-## 21. [Xbox’s first chief operating officer is out after just a few months](https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure)
+## 21. [Blue Planet III is keeping the rough edges in the age of AI](https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai)
+
+- **Nguon:** The Verge
+- **Thoi gian dang:** Chua ro
+
+> BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue […]
+
+---
+
+## 22. [Pennsylvania will require labels on AI-generated ads](https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act)
+
+- **Nguon:** The Verge
+- **Thoi gian dang:** Chua ro
+
+> On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that "has been significantly modified or generated by artificial intelligence" to include a label in the same format as […]
+
+---
+
+## 23. [Fielded is obsessed with scammers and unhinged Japanese cyberpunk](https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview)
+
+- **Nguon:** The Verge
+- **Thoi gian dang:** Chua ro
+
+> Lindsay Powell, who releases records under the name Fielded, has spent most of her career subverting expectations and genre conventions. According to their Bandcamp page, Fielded started as an experimental noise project before growing into something closer to R&B. But from moment one, her take on the genre was restless, relentlessly playing with what R&B […]
+
+---
+
+## 24. [LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday](https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale)
+
+- **Nguon:** The Verge
+- **Thoi gian dang:** Chua ro
+
+> Black Friday is still over a month away, but if you’re hoping to upgrade your TV, you don’t need to wait until November. LG has already kicked off its early Black Friday sale, letting you save on the LG C6 and various soundbars through November 1st. Right now, for instance, you can snag a 55-inch […]
+
+---
+
+## 25. [What to expect from Apple’s ‘Pro and tell’ event](https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro)
+
+- **Nguon:** The Verge
+- **Thoi gian dang:** Chua ro
+
+> It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it looks like. Its "Pro and tell" event is scheduled for October 28th at 1PM ET in Los Angeles. […]
+
+---
+
+## 26. [I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop](https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis)
+
+- **Nguon:** The Verge
+- **Thoi gian dang:** Chua ro
+
+> It looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark platform, it got me thinking: this is a lot of what I want from a touchscreen MacBook. Like the Apple silicon in modern MacBook Pros, RTX Spark is […]
+
+---
+
+## 27. [Lee Chang Dong ponders the ethics of the camera](https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview)
+
+- **Nguon:** The Verge
+- **Thoi gian dang:** Chua ro
+
+> Lee Chang Dong's seventh feature film, Possible Love, is inspired by true events from 2009, when a Korean conglomerate fired a third of its staff - 2,600 employees - after which many died by suicide. Possible Love is the latest in a long line of Lee movies that engage with themes of class or labor […]
+
+---
+
+## 28. [Laika has spent 20 years building up to Wildwood](https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika)
+
+- **Nguon:** The Verge
+- **Thoi gian dang:** Chua ro
+
+> Across several decades in Hollywood, Caleb Deschanel has seen a lot. He served as cinematographer on films like The Passion of the Christ and The Patriot, worked on sequences in The Godfather and Titanic, and directed a few episodes of Twin Peaks. Even still, nothing could quite prepare him for his first stop-motion project: working […]
+
+---
+
+## 29. [It’s time to find a new browser](https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer)
+
+- **Nguon:** The Verge
+- **Thoi gian dang:** Chua ro
+
+> Hi, friends! Welcome to Installer No. 149, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy It Actually Feels Like Fall Now At Least In My Neighborhood), and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Demis […]
+
+---
+
+## 30. [Xbox’s first chief operating officer is out after just a few months](https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
 > Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been at Microsoft for 21 years, serving as the head of Minecraft before being promoted to Xbox chief […]
-
----
-
-## 22. [OpenAI now trains its frontier AI models with no internet access](https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet)
-
-- **Nguon:** The Verge
-- **Thoi gian dang:** Chua ro
-
-> OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content "without risk of affecting external systems." OpenAI paused training its frontier […]
-
----
-
-## 23. [Abandoned Popcorn Time apps had to be disabled to prevent a zombie army](https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided)
-
-- **Nguon:** The Verge
-- **Thoi gian dang:** Chua ro
-
-> Remember Popcorn Time, the app that served as an easy-to-use front end for streaming torrents of movies and TV shows? Development of the MPAA's least-favorite app of the 2010s has been abandoned for years, but the "Netflix of Piracy" software is still installed on millions of devices that are just waiting to join a bot […]
-
----
-
-## 24. [Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend](https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech)
-
-- **Nguon:** The Verge
-- **Thoi gian dang:** Chua ro
-
-> Jack Dorsey's Block announced an AI model called Dessa that's trained "from scratch on nothing but human conversation," and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared by Dessa lead Ragavan Thurairatnam. The conversation between […]
-
----
-
-## 25. [Soundcore’s latest noise-crushing headphones are on sale for a new low price](https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale)
-
-- **Nguon:** The Verge
-- **Thoi gian dang:** Chua ro
-
-> My colleague John Higgins considered Soundcore’s Space One some of the best budget noise-canceling headphones you could buy when they launched in 2023 — and their successor has only improved upon their winning formula, albeit with a $30 price increase. Thankfully, the Soundcore Space 2 are currently on sale at Amazon, Best Buy, and Walmart […]
-
----
-
-## 26. [Fi’s GPS-equipped dog trackers are on sale for 30 percent off](https://www.theverge.com/gadgets/1017196/fi-ultra-gps-dog-tracker-kirby-air-riders-deal-sale)
-
-- **Nguon:** The Verge
-- **Thoi gian dang:** Chua ro
-
-> If your dog or cat is prone to getting lost, or you frequently go on adventures together, you can save 30 percent on Fi pet trackers through October 25th when you enter coupon code SCARY at checkout. The sale includes several satellite-connected trackers, including the Fi Ultra GPS we previously tested, which is down to […]
-
----
-
-## 27. [Elon Musk’s dangerous grip on outer space](https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly)
-
-- **Nguon:** The Verge
-- **Thoi gian dang:** Chua ro
-
-> Last week, Starshield - the version of SpaceX's Starlink used by the Ukrainian military - was throttled to block terminals traveling above certain speeds from accessing the service. The Ukrainian army's interceptors, which counter Russian drones carrying bombs, suddenly stopped working at high speeds, making it easier for Russia to attack the country's energy infrastructure […]
-
----
-
-## 28. [The iPhone Duo should have been an iPad](https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast)
-
-- **Nguon:** The Verge
-- **Thoi gian dang:** Chua ro
-
-> We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. On this episode of The Vergecast, David and Nilay […]
-
----
-
-## 29. [Now Google says it might use your Gmail and Google Photos data to target ads](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update)
-
-- **Nguon:** The Verge
-- **Thoi gian dang:** Chua ro
-
-> Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous […]
-
----
-
-## 30. [The first broken iPhone Duos are here](https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen)
-
-- **Nguon:** The Verge
-- **Thoi gian dang:** Chua ro
-
-> The iPhone Duo officially goes on sale today, but a few units already have broken screens. According to posts on Reddit about the affected units, the issue appears to be happening at a similar spot on all of them: Some kind of problem shows up on the inner screen along the hinge and a strange […]
 
 ---

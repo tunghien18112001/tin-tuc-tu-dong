@@ -1,12 +1,21 @@
 # BAN TIN TUC TU DONG
 
-> Cap nhat lan cuoi: 25/10/2026 07:31 (gio Viet Nam)
+> Cap nhat lan cuoi: 26/10/2026 07:45 (gio Viet Nam)
 
 > Tong so bai: 30
 
 ---
 
-## 1. [UK to invest £100m in 'world first' AI Biosecurity Lab](https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss)
+## 1. [Data centre debate heats up ahead of US midterms - here's what you need to know](https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-10-25 23:44
+
+> Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.
+
+---
+
+## 2. [UK to invest £100m in 'world first' AI Biosecurity Lab](https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-10-24 00:05
@@ -15,7 +24,7 @@
 
 ---
 
-## 2. [What is PHP and why did it spark a global cyber-security scramble?](https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss)
+## 3. [What is PHP and why did it spark a global cyber-security scramble?](https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-10-23 12:24
@@ -24,7 +33,7 @@
 
 ---
 
-## 3. ['It's been relentless' say IT workers on frontline of PHP cyber-security scramble](https://www.bbc.co.uk/news/articles/cxnv025d8qpmo?at_medium=RSS&at_campaign=rss)
+## 4. ['It's been relentless' say IT workers on frontline of PHP cyber-security scramble](https://www.bbc.co.uk/news/articles/cxnv025d8qpmo?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-10-23 12:00
@@ -33,7 +42,7 @@
 
 ---
 
-## 4. [The Indian workers filming their work to train AI](https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss)
+## 5. [The Indian workers filming their work to train AI](https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-10-23 08:04
@@ -42,7 +51,7 @@
 
 ---
 
-## 5. [Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax](https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss)
+## 6. [Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax](https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-10-22 18:26
@@ -51,7 +60,7 @@
 
 ---
 
-## 6. [Race to update services' computer systems after cyber-security flaw found](https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss)
+## 7. [Race to update services' computer systems after cyber-security flaw found](https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-10-22 17:12
@@ -60,7 +69,7 @@
 
 ---
 
-## 7. [Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb](https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o?at_medium=RSS&at_campaign=rss)
+## 8. [Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb](https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-10-22 10:17
@@ -69,7 +78,7 @@
 
 ---
 
-## 8. ['500 new vulnerabilities' found in government, says AI minister](https://www.bbc.co.uk/news/videos/c6y8lvg2p50po?at_medium=RSS&at_campaign=rss)
+## 9. ['500 new vulnerabilities' found in government, says AI minister](https://www.bbc.co.uk/news/videos/c6y8lvg2p50po?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-10-22 10:08
@@ -78,7 +87,7 @@
 
 ---
 
-## 9. [UK working to identify exposure after global cyber-security warning](https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss)
+## 10. [UK working to identify exposure after global cyber-security warning](https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-10-22 08:23
@@ -87,16 +96,52 @@
 
 ---
 
-## 10. [Trump's green card curbs test Indian tech workers' American dream](https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss)
+## 11. [Grok releases the first seven minutes of its AI-generated ‘Odyssey’](https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/)
 
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-10-21 23:06
+- **Nguon:** TechCrunch
+- **Thoi gian dang:** 2026-10-25 21:31
 
-> With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.
+> The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.
 
 ---
 
-## 11. [Starlink seems to be working normally again in Ukraine](https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/)
+## 12. [‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead](https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/)
+
+- **Nguon:** TechCrunch
+- **Thoi gian dang:** 2026-10-25 20:20
+
+> "That's a 12-year-old view of the world."
+
+---
+
+## 13. [AI delivers ‘zero financial payoff’ to most companies, Apollo economist says](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)
+
+- **Nguon:** TechCrunch
+- **Thoi gian dang:** 2026-10-25 16:57
+
+> "Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech."
+
+---
+
+## 14. [TechCrunch Mobility: Blue-green is the color of autonomy](https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/)
+
+- **Nguon:** TechCrunch
+- **Thoi gian dang:** 2026-10-25 16:05
+
+> Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
+
+---
+
+## 15. [The hottest AI wearables and gadgets you should know about](https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/)
+
+- **Nguon:** TechCrunch
+- **Thoi gian dang:** 2026-10-25 14:10
+
+> We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.
+
+---
+
+## 16. [Starlink seems to be working normally again in Ukraine](https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/)
 
 - **Nguon:** TechCrunch
 - **Thoi gian dang:** 2026-10-24 20:46
@@ -105,7 +150,7 @@
 
 ---
 
-## 12. [Will AI expose the rickety infrastructure of the internet?](https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/)
+## 17. [Will AI expose the rickety infrastructure of the internet?](https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/)
 
 - **Nguon:** TechCrunch
 - **Thoi gian dang:** 2026-10-24 20:15
@@ -114,7 +159,7 @@
 
 ---
 
-## 13. [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)
+## 18. [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)
 
 - **Nguon:** TechCrunch
 - **Thoi gian dang:** 2026-10-24 19:00
@@ -123,7 +168,7 @@
 
 ---
 
-## 14. [Instacart reportedly discussed selling itself with DoorDash and Uber](https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/)
+## 19. [Instacart reportedly discussed selling itself with DoorDash and Uber](https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/)
 
 - **Nguon:** TechCrunch
 - **Thoi gian dang:** 2026-10-24 16:30
@@ -132,7 +177,7 @@
 
 ---
 
-## 15. [Block’s new voice model sounds eerily human](https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/)
+## 20. [Block’s new voice model sounds eerily human](https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/)
 
 - **Nguon:** TechCrunch
 - **Thoi gian dang:** 2026-10-24 16:00
@@ -141,52 +186,79 @@
 
 ---
 
-## 16. [PHP-ocalypse: How two critical web bugs almost broke the internet](https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/)
+## 21. [iFixit’s look inside the iPhone Duo may explain those broken screens and hinges](https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge)
 
-- **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-24 15:30
+- **Nguon:** The Verge
+- **Thoi gian dang:** Chua ro
 
-> Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.
-
----
-
-## 17. [These clever apps show off the iPhone Duo’s potential](https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/)
-
-- **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-24 15:00
-
-> From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.
+> As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score. That might not seem particularly high, but it's the best score the […]
 
 ---
 
-## 18. [Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.](https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/)
+## 22. [Scott Walker’s The Drift will get under your skin](https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review)
 
-- **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-24 15:00
+- **Nguon:** The Verge
+- **Thoi gian dang:** Chua ro
 
-> A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.
-
----
-
-## 19. [The Boox Palma 2 Pro finally got me to stop reading on my phone](https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/)
-
-- **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-24 14:15
-
-> The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display.
+> In my mind, Spooky Season music comes in two distinct flavors. There are the fun, occasionally goofy songs like "The Monster Mash" and John Carpenter's "Halloween Theme." Then there is the genuinely terrifying: Throbbing Gristle, The Body, or Scott Walker's The Drift. This 2006 album from the singer-songwriter is truly upsetting. On it, Walker explores […]
 
 ---
 
-## 20. [Here are the top AI agents that can live in your text messages](https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/)
+## 23. [A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate](https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen)
 
-- **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-24 14:00
+- **Nguon:** The Verge
+- **Thoi gian dang:** Chua ro
 
-> We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.
+> Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in spectacular fashion. Some users report having the phone for only a few hours before the hinge seems to catch on something, then audibly crack and break the screen. Tellingly, the cracks all seem to happen in the […]
 
 ---
 
-## 21. [Blue Planet III is keeping the rough edges in the age of AI](https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai)
+## 24. [Zen Browser is the Arc replacement I was looking for](https://www.theverge.com/tech/1018275/zen-browser-arc-replacement)
+
+- **Nguon:** The Verge
+- **Thoi gian dang:** Chua ro
+
+> I know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long time to really offer a new approach to browser design. Atlassian bought the company last year and shifted its focus to developing Dia, its even more AI-focused browser. And […]
+
+---
+
+## 25. [This Switch 2 sequel accessory was a few millimeters away from being good](https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on)
+
+- **Nguon:** The Verge
+- **Thoi gian dang:** Chua ro
+
+> The Crkd Nitro Deck was a saving grace for the original Nintendo Switch. The slide-on $59.99 accessory brought Hall effect sticks to drift-plagued consoles - no need to open up your Joy-Con for a complicated repair. The Nitro Deck 2, made for both the original Switch and the larger Switch 2, continues the tradition of […]
+
+---
+
+## 26. [Now you can watch Instagram Reels on your Apple TV](https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv)
+
+- **Nguon:** The Verge
+- **Thoi gian dang:** Chua ro
+
+> Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other video content, blown up for a bigger screen in December of last year. Then, in June, it launched a slew of new features […]
+
+---
+
+## 27. [r/opensource just banned AI, non-English speakers, and more](https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban)
+
+- **Nguon:** The Verge
+- **Thoi gian dang:** Chua ro
+
+> The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, "If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source […]
+
+---
+
+## 28. [Google’s AI search changes upended online publishing](https://www.theverge.com/column/1017983/google-ai-search-online-publishing)
+
+- **Nguon:** The Verge
+- **Thoi gian dang:** Chua ro
+
+> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on […]
+
+---
+
+## 29. [Blue Planet III is keeping the rough edges in the age of AI](https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
@@ -195,83 +267,11 @@
 
 ---
 
-## 22. [Pennsylvania will require labels on AI-generated ads](https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act)
+## 30. [Pennsylvania will require labels on AI-generated ads](https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
 > On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that "has been significantly modified or generated by artificial intelligence" to include a label in the same format as […]
-
----
-
-## 23. [Fielded is obsessed with scammers and unhinged Japanese cyberpunk](https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview)
-
-- **Nguon:** The Verge
-- **Thoi gian dang:** Chua ro
-
-> Lindsay Powell, who releases records under the name Fielded, has spent most of her career subverting expectations and genre conventions. According to their Bandcamp page, Fielded started as an experimental noise project before growing into something closer to R&B. But from moment one, her take on the genre was restless, relentlessly playing with what R&B […]
-
----
-
-## 24. [LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday](https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale)
-
-- **Nguon:** The Verge
-- **Thoi gian dang:** Chua ro
-
-> Black Friday is still over a month away, but if you’re hoping to upgrade your TV, you don’t need to wait until November. LG has already kicked off its early Black Friday sale, letting you save on the LG C6 and various soundbars through November 1st. Right now, for instance, you can snag a 55-inch […]
-
----
-
-## 25. [What to expect from Apple’s ‘Pro and tell’ event](https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro)
-
-- **Nguon:** The Verge
-- **Thoi gian dang:** Chua ro
-
-> It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it looks like. Its "Pro and tell" event is scheduled for October 28th at 1PM ET in Los Angeles. […]
-
----
-
-## 26. [I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop](https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis)
-
-- **Nguon:** The Verge
-- **Thoi gian dang:** Chua ro
-
-> It looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark platform, it got me thinking: this is a lot of what I want from a touchscreen MacBook. Like the Apple silicon in modern MacBook Pros, RTX Spark is […]
-
----
-
-## 27. [Lee Chang Dong ponders the ethics of the camera](https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview)
-
-- **Nguon:** The Verge
-- **Thoi gian dang:** Chua ro
-
-> Lee Chang Dong's seventh feature film, Possible Love, is inspired by true events from 2009, when a Korean conglomerate fired a third of its staff - 2,600 employees - after which many died by suicide. Possible Love is the latest in a long line of Lee movies that engage with themes of class or labor […]
-
----
-
-## 28. [Laika has spent 20 years building up to Wildwood](https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika)
-
-- **Nguon:** The Verge
-- **Thoi gian dang:** Chua ro
-
-> Across several decades in Hollywood, Caleb Deschanel has seen a lot. He served as cinematographer on films like The Passion of the Christ and The Patriot, worked on sequences in The Godfather and Titanic, and directed a few episodes of Twin Peaks. Even still, nothing could quite prepare him for his first stop-motion project: working […]
-
----
-
-## 29. [It’s time to find a new browser](https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer)
-
-- **Nguon:** The Verge
-- **Thoi gian dang:** Chua ro
-
-> Hi, friends! Welcome to Installer No. 149, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy It Actually Feels Like Fall Now At Least In My Neighborhood), and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Demis […]
-
----
-
-## 30. [Xbox’s first chief operating officer is out after just a few months](https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure)
-
-- **Nguon:** The Verge
-- **Thoi gian dang:** Chua ro
-
-> Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been at Microsoft for 21 years, serving as the head of Minecraft before being promoted to Xbox chief […]
 
 ---

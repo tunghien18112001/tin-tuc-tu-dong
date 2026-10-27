@@ -1,12 +1,30 @@
 # BAN TIN TUC TU DONG
 
-> Cap nhat lan cuoi: 26/10/2026 07:45 (gio Viet Nam)
+> Cap nhat lan cuoi: 27/10/2026 07:36 (gio Viet Nam)
 
 > Tong so bai: 30
 
 ---
 
-## 1. [Data centre debate heats up ahead of US midterms - here's what you need to know](https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss)
+## 1. [Anthropic's blockbuster share listing - 5 surprising things we now know](https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-10-26 19:57
+
+> Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.
+
+---
+
+## 2. [Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing](https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-10-26 16:27
+
+> The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.
+
+---
+
+## 3. [Big, noisy and coming to a town near you - why the data centre backlash is growing](https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-10-25 23:44
@@ -15,7 +33,7 @@
 
 ---
 
-## 2. [UK to invest £100m in 'world first' AI Biosecurity Lab](https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss)
+## 4. [UK to invest £100m in 'world first' AI Biosecurity Lab](https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-10-24 00:05
@@ -24,7 +42,7 @@
 
 ---
 
-## 3. [What is PHP and why did it spark a global cyber-security scramble?](https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss)
+## 5. [What is PHP and why did it spark a global cyber-security scramble?](https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-10-23 12:24
@@ -33,7 +51,7 @@
 
 ---
 
-## 4. ['It's been relentless' say IT workers on frontline of PHP cyber-security scramble](https://www.bbc.co.uk/news/articles/cxnv025d8qpmo?at_medium=RSS&at_campaign=rss)
+## 6. ['It's been relentless' say IT workers on frontline of PHP cyber-security scramble](https://www.bbc.co.uk/news/articles/cxnv025d8qpmo?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-10-23 12:00
@@ -42,7 +60,7 @@
 
 ---
 
-## 5. [The Indian workers filming their work to train AI](https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss)
+## 7. [The Indian workers filming their work to train AI](https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-10-23 08:04
@@ -51,7 +69,7 @@
 
 ---
 
-## 6. [Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax](https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss)
+## 8. [Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax](https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-10-22 18:26
@@ -60,7 +78,7 @@
 
 ---
 
-## 7. [Race to update services' computer systems after cyber-security flaw found](https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss)
+## 9. [Race to update services' computer systems after cyber-security flaw found](https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-10-22 17:12
@@ -69,7 +87,7 @@
 
 ---
 
-## 8. [Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb](https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o?at_medium=RSS&at_campaign=rss)
+## 10. [Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb](https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-10-22 10:17
@@ -78,200 +96,182 @@
 
 ---
 
-## 9. ['500 new vulnerabilities' found in government, says AI minister](https://www.bbc.co.uk/news/videos/c6y8lvg2p50po?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-10-22 10:08
-
-> '500 new vulnerabilities' found in government, says AI minister
-
----
-
-## 10. [UK working to identify exposure after global cyber-security warning](https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-10-22 08:23
-
-> Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public.
-
----
-
-## 11. [Grok releases the first seven minutes of its AI-generated ‘Odyssey’](https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/)
+## 11. [Databricks co-founder shares his secrets for winning big enterprise customers](https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-25 21:31
+- **Thoi gian dang:** 2026-10-26 22:00
 
-> The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.
+> Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.
 
 ---
 
-## 12. [‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead](https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/)
+## 12. [Watch out, YouTube — Instagram goes from short-form to 90-minute videos](https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-25 20:20
+- **Thoi gian dang:** 2026-10-26 21:05
 
-> "That's a 12-year-old view of the world."
+> After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram.
 
 ---
 
-## 13. [AI delivers ‘zero financial payoff’ to most companies, Apollo economist says](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)
+## 13. [Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it](https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-25 16:57
+- **Thoi gian dang:** 2026-10-26 19:22
 
-> "Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech."
+> A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking.
 
 ---
 
-## 14. [TechCrunch Mobility: Blue-green is the color of autonomy](https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/)
+## 14. [Fusion startups are giving the government shares in exchange for awards. Is it worth it?](https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-25 16:05
+- **Thoi gian dang:** 2026-10-26 18:59
 
-> Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
+> Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?
 
 ---
 
-## 15. [The hottest AI wearables and gadgets you should know about](https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/)
+## 15. [This startup’s self-driving excavators help dig up $600M in new funding](https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-25 14:10
+- **Thoi gian dang:** 2026-10-26 17:45
 
-> We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.
+> Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.
 
 ---
 
-## 16. [Starlink seems to be working normally again in Ukraine](https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/)
+## 16. [Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked](https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-24 20:46
+- **Thoi gian dang:** 2026-10-26 16:49
 
-> Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.
+> Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.
 
 ---
 
-## 17. [Will AI expose the rickety infrastructure of the internet?](https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/)
+## 17. [SpaceX locks in $40B GPU financing deal with Apollo](https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-24 20:15
+- **Thoi gian dang:** 2026-10-26 16:46
 
-> The moment you realize the internet is "held together by glue and dreams."
+> The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.
 
 ---
 
-## 18. [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)
+## 18. [Microsoft offers buyouts to around 60,000 employees](https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-24 19:00
+- **Thoi gian dang:** 2026-10-26 15:58
 
-> From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations.
+> The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce.
 
 ---
 
-## 19. [Instacart reportedly discussed selling itself with DoorDash and Uber](https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/)
+## 19. [Anthropic officially files for its public debut](https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-24 16:30
+- **Thoi gian dang:** 2026-10-26 14:35
 
-> Instacart might sell itself to a larger competitor.
+> Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.
 
 ---
 
-## 20. [Block’s new voice model sounds eerily human](https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/)
+## 20. [Apple unveils new iPad mini with OLED display and faster A20 Pro chip](https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-10-24 16:00
+- **Thoi gian dang:** 2026-10-26 14:25
 
-> Block said that the voice model can run locally on a MacBook M4 Max
+> The new iPad mini features a thinner and lighter design than its predecessor.
 
 ---
 
-## 21. [iFixit’s look inside the iPhone Duo may explain those broken screens and hinges](https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge)
+## 21. [OpenAI announces three big science discoveries and a new way to work with academics](https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score. That might not seem particularly high, but it's the best score the […]
+> Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more "major" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes as "shepherds" guiding the results in […]
 
 ---
 
-## 22. [Scott Walker’s The Drift will get under your skin](https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review)
+## 22. [Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50](https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> In my mind, Spooky Season music comes in two distinct flavors. There are the fun, occasionally goofy songs like "The Monster Mash" and John Carpenter's "Halloween Theme." Then there is the genuinely terrifying: Throbbing Gristle, The Body, or Scott Walker's The Drift. This 2006 album from the singer-songwriter is truly upsetting. On it, Walker explores […]
+> Running out of space on your Nintendo Switch 2? Thankfully, Samsung’s P9 MicroSD Express card is discounted at multiple retailers, with the 256GB version going for $47.99 (Amazon, B&H Photo) and the 512GB version $99 (Amazon, B&H Photo). The smaller card typically sells for around $80, and the larger option usually sells between $150 and […]
 
 ---
 
-## 23. [A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate](https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen)
+## 23. [Anthropic is burning gas to feed the AI boom](https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in spectacular fashion. Some users report having the phone for only a few hours before the hinge seems to catch on something, then audibly crack and break the screen. Tellingly, the cracks all seem to happen in the […]
+> As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. "Competition for access to electrical supply and data center locations with adequate power availability is intense." In documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on "natural gas" […]
 
 ---
 
-## 24. [Zen Browser is the Arc replacement I was looking for](https://www.theverge.com/tech/1018275/zen-browser-arc-replacement)
+## 24. [iPhone Duo now supports Apple Pencil with iOS 27.2](https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> I know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long time to really offer a new approach to browser design. Atlassian bought the company last year and shifted its focus to developing Dia, its even more AI-focused browser. And […]
+> Apple has just released iOS 27.2, bringing Apple Pencil support to the iPhone Duo. The software update also includes an "Edge Light" feature for the iPhone Duo that's intended to illuminate your face during video calls. Apple previously said the iPhone Duo would add support for the Apple Pencil "later this year." The company's first […]
 
 ---
 
-## 25. [This Switch 2 sequel accessory was a few millimeters away from being good](https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on)
+## 25. [The NBA’s response to gambling scandals is to add more gambling partnerships](https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> The Crkd Nitro Deck was a saving grace for the original Nintendo Switch. The slide-on $59.99 accessory brought Hall effect sticks to drift-plagued consoles - no need to open up your Joy-Con for a complicated repair. The Nitro Deck 2, made for both the original Switch and the larger Switch 2, continues the tradition of […]
+> From the bright minds that brought you FTX Arena and NBA Top Shot NFT maketplace (where sales last month dropped to $762,781, which is a 99.66 percent decrease compared to the February 2021 peak of $226,350,843), the NBA announced Monday that it has new "preferred" prediction market deals for Kalshi and Polymarket, as well as […]
 
 ---
 
-## 26. [Now you can watch Instagram Reels on your Apple TV](https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv)
+## 26. [The RealReal won’t let AI agents hog designer clothing](https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other video content, blown up for a bigger screen in December of last year. Then, in June, it launched a slew of new features […]
+> The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal's item reserve system. On the retailer's website, […]
 
 ---
 
-## 27. [r/opensource just banned AI, non-English speakers, and more](https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban)
+## 27. [Apple acknowledges iPhone Duo display ‘issue’ after reports of cracked screens](https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, "If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source […]
+> Following reports of iPhone Duos with cracked and broken inside screens, often showing a bright line running from the center to the right side, Apple says in a statement to Bloomberg and 9to5Mac that it's aware of "an issue impacting the inner display" on a "small number of iPhone Duo units." If your iPhone Duo […]
 
 ---
 
-## 28. [Google’s AI search changes upended online publishing](https://www.theverge.com/column/1017983/google-ai-search-online-publishing)
+## 28. [Nothing’s eye-catching Ear 3A earbuds are matching their best price to date](https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on […]
+> If you want a decent pair of noise-canceling earbuds without spending a fortune, Nothing’s Ear 3A are worth considering. The wireless earbuds offer a lot of features for the price, and they’re an even better value now that all four colors are on sale at Amazon, Walmart, and Best Buy for $79 ($20 off), matching […]
 
 ---
 
-## 29. [Blue Planet III is keeping the rough edges in the age of AI](https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai)
+## 29. [Five weird details from Anthropic’s IPO filing](https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue […]
+> Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions. At more than 300 pages, there's a lot to […]
 
 ---
 
-## 30. [Pennsylvania will require labels on AI-generated ads](https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act)
+## 30. [Everything old is new again with the Fitbit Edge](https://www.theverge.com/tech/1018621/fitbit-edge-review-fitness-tracker-wearables-health)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that "has been significantly modified or generated by artificial intelligence" to include a label in the same format as […]
+> Last week, I sank into my living room couch and watched a bedraggled, nihilistic Matthew McConaughey take a drag of a cigarette in season 1 of True Detective. "You know, someone once told me time is a flat circle. Everything we've done, or will do, we're gonna do over and over and over again." I […]
 
 ---

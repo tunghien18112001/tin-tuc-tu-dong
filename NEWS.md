@@ -1,12 +1,30 @@
 # BAN TIN TUC TU DONG
 
-> Cap nhat lan cuoi: 04/11/2026 07:54 (gio Viet Nam)
+> Cap nhat lan cuoi: 05/11/2026 07:55 (gio Viet Nam)
 
 > Tong so bai: 30
 
 ---
 
-## 1. [Graduates are managing AI - but are they learning much else?](https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss)
+## 1. [Elon Musk's millions failed to deliver Republican wins in fierce midterms](https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-11-04 21:41
+
+> Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.
+
+---
+
+## 2. [French blood storage impacted by freezer hacks as theories swirl about culprits](https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-11-04 16:26
+
+> The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.
+
+---
+
+## 3. [Graduates are managing AI - but are they learning much else?](https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-04 00:04
@@ -15,7 +33,7 @@
 
 ---
 
-## 2. [Binance says fake job interviews used as part of $6.3bn crypto hack](https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss)
+## 4. [Binance says fake job interviews used as part of $6.3bn crypto hack](https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-03 16:19
@@ -24,7 +42,7 @@
 
 ---
 
-## 3. [UK meat industry hit by cyber-attack which targeted European supermarket freezers](https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&at_campaign=rss)
+## 5. [UK meat industry hit by cyber-attack which targeted European supermarket freezers](https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-03 13:07
@@ -33,7 +51,7 @@
 
 ---
 
-## 4. [Apple unsure when it will get more foldable iPhones ahead of Christmas](https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss)
+## 6. [Apple unsure when it will get more foldable iPhones ahead of Christmas](https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-03 11:10
@@ -42,7 +60,7 @@
 
 ---
 
-## 5. [North Korea denies being behind record $6.3bn Binance hack](https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss)
+## 7. [North Korea denies being behind record $6.3bn Binance hack](https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-03 08:33
@@ -51,7 +69,7 @@
 
 ---
 
-## 6. [If hackers can take control of a supermarket freezer, how vulnerable is other tech?](https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss)
+## 8. [If hackers can take control of a supermarket freezer, how vulnerable is other tech?](https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-02 18:25
@@ -60,7 +78,7 @@
 
 ---
 
-## 7. [Binance users withdraw $3.6bn after largest-ever crypto hack](https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss)
+## 9. [Binance users withdraw $3.6bn after largest-ever crypto hack](https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-02 07:42
@@ -69,7 +87,7 @@
 
 ---
 
-## 8. [These firms you've never heard of are feeding fears the AI bubble could burst](https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss)
+## 10. [These firms you've never heard of are feeding fears the AI bubble could burst](https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-01 01:37
@@ -78,200 +96,182 @@
 
 ---
 
-## 9. [Why North Korea's 'elite' hackers are the prime suspect in major Binance hack](https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-10-31 02:12
-
-> If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.
-
----
-
-## 10. [US tech stocks see sharp falls as AI spending nears $1tn](https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-10-30 20:34
-
-> Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.
-
----
-
-## 11. [Anthropic is working on a system to prove AI models’ identity](https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/)
+## 11. [AI PACs spent millions trying to shape Congress — here’s how they fared](https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-03 22:41
+- **Thoi gian dang:** 2026-11-04 22:45
 
-> Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.
+> AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.
 
 ---
 
-## 12. [Data centers are turning to old jet engines as the wait for power grows](https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/)
+## 12. [Nothing CEO says company’s mysterious AI-first device is dropping next month](https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-03 22:19
+- **Thoi gian dang:** 2026-11-04 22:13
 
-> The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.
+> While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.
 
 ---
 
-## 13. [Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom](https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/)
+## 13. [Almost no one uses AI agents to book their Uber, company says](https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-03 21:43
+- **Thoi gian dang:** 2026-11-04 21:56
 
-> Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.
+> During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.
 
 ---
 
-## 14. [Hiding inside Palantir’s skyrocketing quarter is a foreboding signal](https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/)
+## 14. [Snapchat surpasses 30M paid subscribers](https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-03 21:05
+- **Thoi gian dang:** 2026-11-04 21:49
 
-> Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.
+> The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for additional storage or subscribe to Snapchat+ to retain their Memories.
 
 ---
 
-## 15. [Orbital Matter 3D-printed the first rigid beam in the vacuum of space](https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/)
+## 15. [OpenAI is already trying to shape the 2028 election](https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-03 20:57
+- **Thoi gian dang:** 2026-11-04 21:25
 
-> An in-space construction first could be an enabler for the space data centers of the future.
+> OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.
 
 ---
 
-## 16. [Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist](https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/)
+## 16. [Meta acquires AI coding startup Conductor](https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-03 19:45
+- **Thoi gian dang:** 2026-11-04 21:10
 
-> Cybersecurity experts have long warned of the persistent and patient threat from North Korea's long-running hacks. The world's largest crypto exchange was still caught off-guard.
+> The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.
 
 ---
 
-## 17. [AI inference startup Fal doubles its valuation to $16B as demand surges](https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/)
+## 17. [Hackers stole DreamHost customer files and inboxes during months-long attack](https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-03 19:34
+- **Thoi gian dang:** 2026-11-04 20:36
 
-> The five-year-old startup raised a $1.3 billion round led by Bessemer.
+> The web host said hackers exploited a vulnerability to access customer emails and files during a "deliberate attack."
 
 ---
 
-## 18. [Reddit tests ads in search results as traffic declines and growth concerns mount](https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/)
+## 18. [Open source AI is booming. Hugging Face explains who profits.](https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-03 19:24
+- **Thoi gian dang:** 2026-11-04 19:30
 
-> The new ad placements could help Reddit squeeze more revenue from existing users as Google's AI search changes how people discover its content.
+> Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? On this episode of […]
 
 ---
 
-## 19. [Ten years later, ‘Pokémon Go to the polls’ still haunts the internet](https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/)
+## 19. [DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy](https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-03 19:04
+- **Thoi gian dang:** 2026-11-04 19:29
 
-> Hillary Clinton's 2016 political gaffe has become an irony-shrouded rallying cry for jaded young voters who still dare to hope for change.
+> DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.
 
 ---
 
-## 20. [Ferrari’s controversial Luce EV is sold out for 2027](https://techcrunch.com/2026/11/03/ferraris-controversial-luce-ev-is-sold-out-for-2027/)
+## 20. [Waymo confirms it’s shaking up its Uber relationship in January 2028](https://techcrunch.com/2026/11/04/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-2028/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-03 18:51
+- **Thoi gian dang:** 2026-11-04 18:12
 
-> The Luce, Ferrari's first electric car and one of its most polarizing models, is "fully allocated" through 2027, according to CEO Benedetto Vigna.
+> The change will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.
 
 ---
 
-## 21. [The biggest modding site in PC gaming is taking a stance on AI](https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures)
+## 21. [X says its updated web app is way faster](https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare "whether AI has been used in their work," the site announced today as part of a big post about AI-generated content on the platform. "One of the most consistent […]
+> X is introducing a new version of its web app that it says is much faster than before, and it's now rolling out the updated app "one country at a time" for signed-in users. "Open a profile on X.com over a slow connection," principal engineer Yagiz Nizipli said in a blog post about the changes. […]
 
 ---
 
-## 22. [Please stop asking me when the AI bubble will pop](https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds)
+## 22. [Qualcomm is betting big on data centers as smartphone sales sink](https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, […]
+> With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier […]
 
 ---
 
-## 23. [Canva is announcing changes and layoffs affecting 22 percent of its staff](https://www.theverge.com/tech/1025971/canva-changes-layoffs)
+## 23. [17 better ways Elon Musk could have wasted $446 million](https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Canva is making significant changes affecting 1,271 people, which is 22 percent of its staff, co-founder and CEO Melanie Perkins announced today. "For some people, this will mean changes to their roles or being asked to relocate to centralised hubs," says Perkins. "Sadly, it will also mean saying goodbye to teammates and friends who have […]
+> One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the site formerly known as Twitter, and it is your main source of contact with the outside world, you […]
 
 ---
 
-## 24. [Sonos adds new Presets and prepares for the 27voice AI beta](https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access)
+## 24. [How I learned to love an obnoxious phone grip](https://www.theverge.com/tech/1026743/bright-colorful-phone-grip-case)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Sonos is rolling out a big app update that includes new Presets and early access to its AI voice assistant. You can create a preset to play music at a specific volume in a certain room, which will appear directly on the homescreen so you can quickly start playback. If you're in the US, you […]
+> Much like a great recipe, it started with a stick of butter. This wasn't real butter; it was a friend's new phone grip, complemented by a phone case with bold stripes. Butter is in vogue now, or at least that's what a 12-year-old told me a few months ago. This stick of butter was labeled […]
 
 ---
 
-## 25. [Valve is making changes to deal with a ‘significant increase’ in Steam game submissions](https://www.theverge.com/games/1025722/valve-steam-game-increase-submissions)
+## 25. [Bose’s QuietComfort Headphones are more than half off](https://www.theverge.com/gadgets/1026807/bose-quietcomfort-headphones-wireless-deal-sale)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> In a new post today, Valve acknowledged that it's seen "a significant increase in submissions for store and page review in recent months" and says it's "running a little behind" by taking "up to 12 business days" for reviews instead of the typical 3-5 days. Indie developers have recently expressed frustrations over lengthy approval times […]
+> It’s not often that some of the best noise-canceling headphones you can buy are over half off. But right now, the first-gen Bose QuietComfort Headphones are on sale for $169.99 ($190 off) at Amazon, Best Buy, and Bose, matching its best price to date. The newer, second-generation version that launched in August is also down […]
 
 ---
 
-## 26. [Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist](https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained)
+## 26. [Gemini for Home now plugs into AT&T’s smart security system](https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> The largest crypto theft to date was pulled off by combining some well-known hacking techniques over the course of a few months, according to Binance. A postmortem from the company says the process started in June with one developer downloading a tampered installer apparently spread by a malicious Google ad, exposing details about the engineers […]
+> AT&T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the "first" home security product to integrate with Google Home Premium, enabling a bunch of Gemini-powered features that can summarize home events, search your video history, and more. With the update, Gemini for Home can provide […]
 
 ---
 
-## 27. [Here’s what it’s like to use Audio Intelligence on the Apple Watch](https://www.theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch)
+## 27. [Google’s Pixel 11 phones are up to 27 percent off](https://www.theverge.com/gadgets/1025370/google-pixel-11-pro-phone-deal-sale)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> It's impossible to paint a full picture of what Audio Intelligence on the Apple Watch Series 12 and Ultra 4 will be right now. The watchOS 27.3 developer beta just dropped earlier this afternoon, and these features are meant to be lived with in day-to-day life. We're definitely going to do that over the next […]
+> You can save a heck of lot of money on Google’s Pixel 11 phones through November 8th, whether you want the best-for-the-least Pixel 11, or the slightly pricier Pixel 11 Pro that takes better photos. Even the big Pixel 11 Pro XL with a longer-lasting battery is hundreds off its original price. The Pixel 11 […]
 
 ---
 
-## 28. [Those Jeff Bezos hair transplant photos are very fake](https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk)
+## 28. [Xbox previews two new ways to control cloud games](https://www.theverge.com/news/1026455/xbox-nano-direct-cloud-wifi-connection-xbox-cloud-gaming-phone-controller)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X, Threads, and Bluesky in which they both have substantially more hair than their usual shaved […]
+> I revealed yesterday that the new Xbox Nano controller supports a Wi-Fi connection directly to Xbox Cloud Gaming, and now Microsoft is making it official today. Two new Xbox previews will let players try out using a phone as a controller on smart TVs, as well as cloud connect on the Xbox Nano to connect […]
 
 ---
 
-## 29. [The Pixel Buds Pro 2 have returned to their lowest price to date](https://www.theverge.com/gadgets/1025466/google-pixel-buds-pro-2-borderlands-goty-nintendo-switch-deal-sale)
+## 29. [Nothing teases a screen-free AI device ahead of launch next month](https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Android owners looking for an earbud upgrade are in luck. The Google Pixel Buds Pro 2 are back down to $169 at Amazon, Best Buy, and the Google Store, matching the lowest price we’ve seen. Google’s site claims the deal will last until 11:59PM PT on November 8th, and other retailers will likely follow suit. […]
+> Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for "AI-native" devices and an AI operating system. He didn't give away much about what exactly the new device is, only that one feature […]
 
 ---
 
-## 30. [iPhone 18 rumors suggest a bigger battery, higher price next year](https://www.theverge.com/tech/1025748/apple-iphone-18-rumors-price-hike-battery)
+## 30. [Apple will check shared iCloud links for ‘harmful content’](https://www.theverge.com/tech/1026604/apple-icloud-links-harmful-content-27-3)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> After Apple raised iPhone prices earlier this year, a new rumor claims it plans to launch the base iPhone 18 with a higher price, too. A Weibo post from leaker Digital Chat Station, spotted by 9to5Mac, says the base iPhone 18 is getting a couple of upgrades with the price hike, including a larger battery […]
+> Apple will start checking iCloud items that are accessible to anyone who has the link for "harmful content" starting with iOS 27.3 and other 27.3 updates, the company says. "When you share an item that can be accessed by Anyone with the Link in version 27.3 or later of iOS, iPadOS, macOS, and visionOS, that […]
 
 ---

@@ -1,12 +1,30 @@
 # BAN TIN TUC TU DONG
 
-> Cap nhat lan cuoi: 05/11/2026 07:55 (gio Viet Nam)
+> Cap nhat lan cuoi: 06/11/2026 07:56 (gio Viet Nam)
 
 > Tong so bai: 30
 
 ---
 
-## 1. [Elon Musk's millions failed to deliver Republican wins in fierce midterms](https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss)
+## 1. [Major tech stocks plunge as US midterms add to fears of AI slowdown](https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-11-06 00:41
+
+> Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.
+
+---
+
+## 2. [The engine parts that 'fight the laws of the universe'](https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-11-06 00:06
+
+> Investment has surged into the making of jet turbine blades - an extremely difficult component to make.
+
+---
+
+## 3. [Elon Musk's millions failed to deliver Republican wins in fierce midterms](https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-04 21:41
@@ -15,7 +33,7 @@
 
 ---
 
-## 2. [French blood storage impacted by freezer hacks as theories swirl about culprits](https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss)
+## 4. [French blood storage impacted by freezer hacks as theories swirl about culprits](https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-04 16:26
@@ -24,7 +42,7 @@
 
 ---
 
-## 3. [Graduates are managing AI - but are they learning much else?](https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss)
+## 5. [Graduates are managing AI - but are they learning much else?](https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-04 00:04
@@ -33,7 +51,7 @@
 
 ---
 
-## 4. [Binance says fake job interviews used as part of $6.3bn crypto hack](https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss)
+## 6. [Binance says fake job interviews used as part of $6.3bn crypto hack](https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-03 16:19
@@ -42,7 +60,7 @@
 
 ---
 
-## 5. [UK meat industry hit by cyber-attack which targeted European supermarket freezers](https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&at_campaign=rss)
+## 7. [UK meat industry hit by cyber-attack which targeted European supermarket freezers](https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-03 13:07
@@ -51,7 +69,7 @@
 
 ---
 
-## 6. [Apple unsure when it will get more foldable iPhones ahead of Christmas](https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss)
+## 8. [Apple unsure when it will get more foldable iPhones ahead of Christmas](https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-03 11:10
@@ -60,7 +78,7 @@
 
 ---
 
-## 7. [North Korea denies being behind record $6.3bn Binance hack](https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss)
+## 9. [North Korea denies being behind record $6.3bn Binance hack](https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-03 08:33
@@ -69,7 +87,7 @@
 
 ---
 
-## 8. [If hackers can take control of a supermarket freezer, how vulnerable is other tech?](https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss)
+## 10. [If hackers can take control of a supermarket freezer, how vulnerable is other tech?](https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-02 18:25
@@ -78,200 +96,182 @@
 
 ---
 
-## 9. [Binance users withdraw $3.6bn after largest-ever crypto hack](https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-11-02 07:42
-
-> The exchange froze transactions following the incident which has been linked to a North Korean group.
-
----
-
-## 10. [These firms you've never heard of are feeding fears the AI bubble could burst](https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-11-01 01:37
-
-> The amount of debt held by data centres is measured in the tens of billions of pounds.
-
----
-
-## 11. [AI PACs spent millions trying to shape Congress — here’s how they fared](https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/)
+## 11. [The New York Times reportedly in talks to buy Letterboxd for $330 million](https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-04 22:45
+- **Thoi gian dang:** 2026-11-06 00:07
 
-> AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.
+> Letterboxd, an online platform for movie lovers, has grown dramatically in recent years.
 
 ---
 
-## 12. [Nothing CEO says company’s mysterious AI-first device is dropping next month](https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/)
+## 12. [Meta, Google, and TikTok sue California AG over teen social media law](https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-04 22:13
+- **Thoi gian dang:** 2026-11-06 00:01
 
-> While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.
+> If it goes into effect next year, this California law would restrict social media access for children under 16.
 
 ---
 
-## 13. [Almost no one uses AI agents to book their Uber, company says](https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/)
+## 13. [Airbnb says it’s launching an AI travel agent in the first half of 2027](https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-04 21:56
+- **Thoi gian dang:** 2026-11-05 22:40
 
-> During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.
+> Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.
 
 ---
 
-## 14. [Snapchat surpasses 30M paid subscribers](https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/)
+## 14. [Serve Robotics launches new business to become the AWS for robots](https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-04 21:49
+- **Thoi gian dang:** 2026-11-05 21:15
 
-> The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for additional storage or subscribe to Snapchat+ to retain their Memories.
+> Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.
 
 ---
 
-## 15. [OpenAI is already trying to shape the 2028 election](https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/)
+## 15. [Meta says US users can now video chat with their Muse AI avatar](https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-04 21:25
+- **Thoi gian dang:** 2026-11-05 19:48
 
-> OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.
+> Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.
 
 ---
 
-## 16. [Meta acquires AI coding startup Conductor](https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/)
+## 16. [Meta warns that election backlash against data centers could make AI expansion harder](https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-04 21:10
+- **Thoi gian dang:** 2026-11-05 19:12
 
-> The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.
+> Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.
 
 ---
 
-## 17. [Hackers stole DreamHost customer files and inboxes during months-long attack](https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/)
+## 17. [OpenAI released a new cybersecurity model. Is that enough?](https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-04 20:36
+- **Thoi gian dang:** 2026-11-05 19:06
 
-> The web host said hackers exploited a vulnerability to access customer emails and files during a "deliberate attack."
+> OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.
 
 ---
 
-## 18. [Open source AI is booming. Hugging Face explains who profits.](https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/)
+## 18. [US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers](https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-04 19:30
+- **Thoi gian dang:** 2026-11-05 18:48
 
-> Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? On this episode of […]
+> A joint U.S. government statement says the hacks are affecting the food, transportation, and healthcare industries after reports of global mass hacks.
 
 ---
 
-## 19. [DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy](https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/)
+## 19. [OpenAI president Greg Brockman says company could be IPO ready in 2027](https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-04 19:29
+- **Thoi gian dang:** 2026-11-05 18:02
 
-> DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.
+> Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.
 
 ---
 
-## 20. [Waymo confirms it’s shaking up its Uber relationship in January 2028](https://techcrunch.com/2026/11/04/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-2028/)
+## 20. [The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund](https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-04 18:12
+- **Thoi gian dang:** 2026-11-05 18:00
 
-> The change will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.
+> Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.
 
 ---
 
-## 21. [X says its updated web app is way faster](https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster)
+## 21. [OpenAI is stepping back from NDAs for data center projects](https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> X is introducing a new version of its web app that it says is much faster than before, and it's now rolling out the updated app "one country at a time" for signed-in users. "Open a profile on X.com over a slow connection," principal engineer Yagiz Nizipli said in a blog post about the changes. […]
+> Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials. Many data center projects have come under scrutiny for relying on NDAs to hide discussions […]
 
 ---
 
-## 22. [Qualcomm is betting big on data centers as smartphone sales sink](https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers)
+## 22. [Airbnb is working on an AI travel agent](https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier […]
+> Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. "Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an appointment," Airbnb said. "But […]
 
 ---
 
-## 23. [17 better ways Elon Musk could have wasted $446 million](https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich)
+## 23. [The New York Times is in talks to buy Letterboxd for around $330 million](https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the site formerly known as Twitter, and it is your main source of contact with the outside world, you […]
+> The New York Times Company is in talks"exclusive negotations" to acquire Letterboxd, the social network for film lovers, for around $330 million, The New York Times reports. The Times Company, Sony Pictures Entertainment, and A24 were all recently rumored to be among those interested in buying Letterboxd. The negotiations with the Times Company have included […]
 
 ---
 
-## 24. [How I learned to love an obnoxious phone grip](https://www.theverge.com/tech/1026743/bright-colorful-phone-grip-case)
+## 24. [T-Mobile owner on Elon Musk launching a wireless carrier: ‘Welcome to the party’](https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Much like a great recipe, it started with a stick of butter. This wasn't real butter; it was a friend's new phone grip, complemented by a phone case with bold stripes. Butter is in vogue now, or at least that's what a 12-year-old told me a few months ago. This stick of butter was labeled […]
+> The head of T-Mobile's parent company is casting doubt on SpaceX's plans to make Starlink Mobile a "major" carrier in the US. During an earnings call on Thursday, Deutsche Telekom CEO Tim Höttges says he takes the Elon Musk-owned company "super serious," but that it will cost at least $200 billion to pull off: He […]
 
 ---
 
-## 25. [Bose’s QuietComfort Headphones are more than half off](https://www.theverge.com/gadgets/1026807/bose-quietcomfort-headphones-wireless-deal-sale)
+## 25. [Perplexity launches its own take on AI agents for work](https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> It’s not often that some of the best noise-canceling headphones you can buy are over half off. But right now, the first-gen Bose QuietComfort Headphones are on sale for $169.99 ($190 off) at Amazon, Best Buy, and Bose, matching its best price to date. The newer, second-generation version that launched in August is also down […]
+> Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on "Teammates" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity Computer, an AI system that can deploy agents on your device […]
 
 ---
 
-## 26. [Gemini for Home now plugs into AT&T’s smart security system](https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system)
+## 26. [Salon is shutting down after 31 years](https://www.theverge.com/news/1028281/salon-dot-com-shuts-down)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> AT&T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the "first" home security product to integrate with Google Home Premium, enabling a bunch of Gemini-powered features that can summarize home events, search your video history, and more. With the update, Gemini for Home can provide […]
+> Salon launched 31 years ago as one of the first online-only news magazine outlets, and it announced today in an unsigned post that it's ceasing publication. The company said that the "business realities of independent digital journalism have changed profoundly over the years," and it decided that its publishing model is "no longer sustainable." It […]
 
 ---
 
-## 27. [Google’s Pixel 11 phones are up to 27 percent off](https://www.theverge.com/gadgets/1025370/google-pixel-11-pro-phone-deal-sale)
+## 27. [The midterms proved once and for all that X is not real life](https://www.theverge.com/policy/1028253/midterm-elections-x-right-wing-memes)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> You can save a heck of lot of money on Google’s Pixel 11 phones through November 8th, whether you want the best-for-the-least Pixel 11, or the slightly pricier Pixel 11 Pro that takes better photos. Even the big Pixel 11 Pro XL with a longer-lasting battery is hundreds off its original price. The Pixel 11 […]
+> A week before the midterm elections, Vice President JD Vance hosted a town hall in Texas with Fox News host Jesse Watters. It was a friendly event with a friendly audience in what should have been a friendly state, and maybe that's why Vance couldn't help himself. When a college student earnestly asked how the […]
 
 ---
 
-## 28. [Xbox previews two new ways to control cloud games](https://www.theverge.com/news/1026455/xbox-nano-direct-cloud-wifi-connection-xbox-cloud-gaming-phone-controller)
+## 28. [Blue Origin’s next launch now won’t happen until 2027](https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> I revealed yesterday that the new Xbox Nano controller supports a Wi-Fi connection directly to Xbox Cloud Gaming, and now Microsoft is making it official today. Two new Xbox previews will let players try out using a phone as a controller on smart TVs, as well as cloud connect on the Xbox Nano to connect […]
+> Blue Origin plans to do its next New Glenn rocket launch in January 2027, according to CNBC and the Financial Times, which cite a memo from CEO Dave Limp sent to staff. The new timeline follows a May launchpad explosion that damaged Blue Origin's New Glenn launchpad ahead of a flight that would have brought […]
 
 ---
 
-## 29. [Nothing teases a screen-free AI device ahead of launch next month](https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei)
+## 29. [Samsung’s Galaxy Z Fold 8 is $300 off ahead of Black Friday](https://www.theverge.com/gadgets/1027659/samsung-galaxy-z-fold-8-beats-pill-deal-sale)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for "AI-native" devices and an AI operating system. He didn't give away much about what exactly the new device is, only that one feature […]
+> Android fans with a bit of iPhone Duo envy, take note: The Samsung Galaxy Z Fold 8 is discounted to $1,599.99 at both Amazon and Best Buy, a hefty $300 markdown from its usual price, and just $50 higher than the lowest we’ve seen. Considering the device only launched a few months ago, you’re saving […]
 
 ---
 
-## 30. [Apple will check shared iCloud links for ‘harmful content’](https://www.theverge.com/tech/1026604/apple-icloud-links-harmful-content-27-3)
+## 30. [Muse has a voice mode now](https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Apple will start checking iCloud items that are accessible to anyone who has the link for "harmful content" starting with iOS 27.3 and other 27.3 updates, the company says. "When you share an item that can be accessed by Anyone with the Link in version 27.3 or later of iOS, iPadOS, macOS, and visionOS, that […]
+> Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with your Muse agent, the avatar at the top of […]
 
 ---

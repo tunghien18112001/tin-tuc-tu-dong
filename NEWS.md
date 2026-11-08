@@ -1,12 +1,21 @@
 # BAN TIN TUC TU DONG
 
-> Cap nhat lan cuoi: 07/11/2026 07:52 (gio Viet Nam)
+> Cap nhat lan cuoi: 08/11/2026 07:54 (gio Viet Nam)
 
 > Tong so bai: 30
 
 ---
 
-## 1. [Elon Musk appears to signal the end of the road for Cybertruck](https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss)
+## 1. [Can the Zelda remake capture the magic of the original?](https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-11-08 00:37
+
+> Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict.
+
+---
+
+## 2. [Elon Musk appears to signal the end of the road for Cybertruck](https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-06 21:49
@@ -15,7 +24,7 @@
 
 ---
 
-## 2. [AI stocks climb after trillions wiped from market values](https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss)
+## 3. [AI stocks climb after trillions wiped from market values](https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-06 21:06
@@ -24,7 +33,7 @@
 
 ---
 
-## 3. [Why the US midterms sparked an AI stock selloff](https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss)
+## 4. [Why the US midterms sparked an AI stock selloff](https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-06 18:32
@@ -33,7 +42,7 @@
 
 ---
 
-## 4. [Global stocks plunge as fears over US AI slowdown spread to Asia and Europe](https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss)
+## 5. [Global stocks plunge as fears over US AI slowdown spread to Asia and Europe](https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-06 13:25
@@ -42,7 +51,7 @@
 
 ---
 
-## 5. [The engine parts that 'fight the laws of the universe'](https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss)
+## 6. [The engine parts that 'fight the laws of the universe'](https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-06 00:06
@@ -51,7 +60,7 @@
 
 ---
 
-## 6. [Elon Musk's millions failed to deliver Republican wins in fierce midterms](https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss)
+## 7. [Elon Musk's millions failed to deliver Republican wins in fierce midterms](https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-04 21:41
@@ -60,7 +69,7 @@
 
 ---
 
-## 7. [French blood storage impacted by freezer hacks as theories swirl about culprits](https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss)
+## 8. [French blood storage impacted by freezer hacks as theories swirl about culprits](https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-04 16:26
@@ -69,7 +78,7 @@
 
 ---
 
-## 8. [Graduates are managing AI - but are they learning much else?](https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss)
+## 9. [Graduates are managing AI - but are they learning much else?](https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-04 00:04
@@ -78,7 +87,7 @@
 
 ---
 
-## 9. [Binance says fake job interviews used as part of $6.3bn crypto hack](https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss)
+## 10. [Binance says fake job interviews used as part of $6.3bn crypto hack](https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-03 16:19
@@ -87,16 +96,79 @@
 
 ---
 
-## 10. [UK meat industry hit by cyber-attack which targeted European supermarket freezers](https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&at_campaign=rss)
+## 11. [After the midterms, things are looking rocky for Elon Musk and data centers](https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/)
 
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-11-03 13:07
+- **Nguon:** TechCrunch
+- **Thoi gian dang:** 2026-11-07 22:07
 
-> Supermarkets in countries including Ireland, Sweden and Belgium reported fridges being hiked in temperature on Monday.
+> On Equity, we unpacked what the midterms mean for the tech industry.
 
 ---
 
-## 11. [OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/)
+## 12. [Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo](https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/)
+
+- **Nguon:** TechCrunch
+- **Thoi gian dang:** 2026-11-07 21:17
+
+> A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.
+
+---
+
+## 13. [Parents want safer phones for kids. These companies are answering the call.](https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/)
+
+- **Nguon:** TechCrunch
+- **Thoi gian dang:** 2026-11-07 19:00
+
+> As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.
+
+---
+
+## 14. [Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack](https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/)
+
+- **Nguon:** TechCrunch
+- **Thoi gian dang:** 2026-11-07 17:24
+
+> The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.
+
+---
+
+## 15. [Amazon’s new basic Kindle proves you don’t need all the bells and whistles](https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/)
+
+- **Nguon:** TechCrunch
+- **Thoi gian dang:** 2026-11-07 17:18
+
+> Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.
+
+---
+
+## 16. [Sequoia shutting down its Scouts program marks the end of an era](https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/)
+
+- **Nguon:** TechCrunch
+- **Thoi gian dang:** 2026-11-07 05:01
+
+> Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.
+
+---
+
+## 17. [From the front row to the hot seat — what the midterms mean for Big Tech](https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/)
+
+- **Nguon:** TechCrunch
+- **Thoi gian dang:** 2026-11-07 04:16
+
+> After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.
+
+---
+
+## 18. [Crusoe sells troubled Wyoming data center project to Google](https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/)
+
+- **Nguon:** TechCrunch
+- **Thoi gian dang:** 2026-11-07 01:40
+
+> The deal highlights the challenges of developing massive AI data centers.
+
+---
+
+## 19. [OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/)
 
 - **Nguon:** TechCrunch
 - **Thoi gian dang:** 2026-11-06 22:53
@@ -105,7 +177,7 @@
 
 ---
 
-## 12. [The Duo apps are coming, says Apple](https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/)
+## 20. [The Duo apps are coming, says Apple](https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/)
 
 - **Nguon:** TechCrunch
 - **Thoi gian dang:** 2026-11-06 21:38
@@ -114,164 +186,92 @@
 
 ---
 
-## 13. [Hundreds of Artex AI hacking tools found publicly exposed to the web](https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/)
+## 21. [The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance](https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions)
 
-- **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-06 18:44
+- **Nguon:** The Verge
+- **Thoi gian dang:** Chua ro
 
-> Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.
-
----
-
-## 14. [Meta introduces Spaces, a new way to collaborate with your Muse agent](https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/)
-
-- **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-06 18:44
-
-> Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.
+> With temperatures rising to the 90s in Los Angeles, avoiding the heat wasn't exactly an option while I was at a relative's outdoor party in August. So I sat beneath a patio umbrella with a powerful fan nearby, figuring I was protected from the sun and heat. Half an hour later, I felt exhausted, dizzy, […]
 
 ---
 
-## 15. [After the midterms, is the AI industry in for a rough two years?](https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/)
+## 22. [Costco members can get $5 off the reimagined Ocarina of Time](https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale)
 
-- **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-06 17:23
+- **Nguon:** The Verge
+- **Thoi gian dang:** Chua ro
 
-> Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]
-
----
-
-## 16. [Pentagon offers battery startup 6K $250M loan to build US factory](https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/)
-
-- **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-06 16:50
-
-> The Pentagon has conditionally approved a $250 million loan to help 6K scale up its microwave-plasma battery material manufacturing process.
+> While some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time, it’s not too late to save if you missed out. Costco members can currently get $5 off the digital version online, bringing the price down to $54.99. Considering an annual Costco membership runs $65, that discount almost offsets […]
 
 ---
 
-## 17. [Fox completes its $22B acquisition of Roku](https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/)
+## 23. [Discogs’ Kevin Lewandowski can’t live without his AeroPress](https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview)
 
-- **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-06 16:05
+- **Nguon:** The Verge
+- **Thoi gian dang:** Chua ro
 
-> A few months after DOJ investigators were probing the deal, Fox just completed its $22B acquisition of the streaming giant Roku.
-
----
-
-## 18. [Ramp data shows AI spending stalling just as Anthropic nears its IPO](https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/)
-
-- **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-06 15:54
-
-> AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.
+> Twenty-five years ago, Kevin Lewandowski founded Discogs, arguably the destination online for obsessive vinyl collectors and music nerds of all stripes. It is a marketplace for buying and selling records, obviously, but it's also become so much more. It's a shockingly comprehensive database that covers not just albums and singles, but all the various versions […]
 
 ---
 
-## 19. [After blocking Muse, Amazon now lets users text Alexa to help them shop](https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/)
+## 24. [NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake](https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review)
 
-- **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-06 14:10
+- **Nguon:** The Verge
+- **Thoi gian dang:** Chua ro
 
-> Amazon said that the feature will roll out to millions of users in coming weeks.
-
----
-
-## 20. [Underdog shows off a 32MB speech model in new demo](https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/)
-
-- **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-06 13:02
-
-> Despite its small size, Underdog's new model can generate both speech and music.
+> Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, "Chicken again?" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best […]
 
 ---
 
-## 21. [OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO](https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation)
+## 25. [The US let Nvidia sell chips to an empty office in China](https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government)
+
+- **Nguon:** The Verge
+- **Thoi gian dang:** Chua ro
+
+> Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, "a hollow gray shell […]
+
+---
+
+## 26. [AI broke the cybersecurity world. What’s next?](https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos)
+
+- **Nguon:** The Verge
+- **Thoi gian dang:** Chua ro
+
+> Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say […]
+
+---
+
+## 27. [Good riddance, Cybertruck!](https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash)
+
+- **Nguon:** The Verge
+- **Thoi gian dang:** Chua ro
+
+> I'm calling it: time of death, November 6th, 1:30 AM, by tweet. Elon Musk's declaration Friday that Tesla would be "winding down" production of the Cybertruck next year to make room for the Cybercab was fascinating for a number of reasons. First, it was a humiliating way to kill a vehicle that was once hailed […]
+
+---
+
+## 28. [Zelda is back and better than ever](https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer)
+
+- **Nguon:** The Verge
+- **Thoi gian dang:** Chua ro
+
+> Hi, friends! Welcome to Installer No. 151, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, get psyched because it's officially Bad Holiday Movie Season, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Andrew Garfield and GTA […]
+
+---
+
+## 29. [Why a new report on Anthropic automating AI development is alarming researchers](https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development)
+
+- **Nguon:** The Verge
+- **Thoi gian dang:** Chua ro
+
+> Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation […]
+
+---
+
+## 30. [OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO](https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
 > OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal […]
-
----
-
-## 22. [China reportedly recruited AI exec to spy on Jensen Huang](https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy)
-
-- **Nguon:** The Verge
-- **Thoi gian dang:** Chua ro
-
-> China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and "potentially influence the company to push for its most advanced chips to be made available to China." Megaspeed […]
-
----
-
-## 23. [Starlink Mobile: All the news on SpaceX’s major mobile carrier ambitions](https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news)
-
-- **Nguon:** The Verge
-- **Thoi gian dang:** Chua ro
-
-> SpaceX has declared that it’s going to make Starlink Mobile a “major” mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challenge is building out its 5G network here on Earth. As part of its plans to rival AT&T, Verizon, and T-Mobile, SpaceX has inked a deal […]
-
----
-
-## 24. [KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium](https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale)
-
-- **Nguon:** The Verge
-- **Thoi gian dang:** Chua ro
-
-> Buying the 4K Blu-ray disc version of KPop Demon Hunters was already going to be a wise idea for some people, especially those who primarily keep their $26.99 Netflix Premium subscription just to watch the hit animated flick in 4K. But at just $24.99 from Barnes and Noble and Amazon instead of its original $49.95 […]
-
----
-
-## 25. [All the latest updates on AI data centers](https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy)
-
-- **Nguon:** The Verge
-- **Thoi gian dang:** Chua ro
-
-> Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead […]
-
----
-
-## 26. [Shure’s popular podcasting and streaming mic is almost $50 off](https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale)
-
-- **Nguon:** The Verge
-- **Thoi gian dang:** Chua ro
-
-> While the Shure Mv7 Plus is popular with streamers and podcasters, it’s equally good at impressing your friends and coworkers on meetings and Discord calls. It’s currently marked down to $255 at various retailers, including Amazon, Guitar Center, and directly from Shure. That’s almost $50 lower than its usual price, and just a few dollars […]
-
----
-
-## 27. [Lame-duck Congress might actually do something: speed up energy projects](https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote)
-
-- **Nguon:** The Verge
-- **Thoi gian dang:** Chua ro
-
-> A massive permitting bill that could help energy projects come online much quicker and potentially lower utility bills for Americans is advancing with bipartisan support. And while it could be a catalyst for lots of clean energy, it could also speed up polluting projects and limit oversight of new data centers. With data centers demanding […]
-
----
-
-## 28. [Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now](https://www.theverge.com/tech/1028871/meta-muse-ai-spaces)
-
-- **Nguon:** The Verge
-- **Thoi gian dang:** Chua ro
-
-> Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called "spaces," allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse app. Meta says you can create a new space by […]
-
----
-
-## 29. [Amazon is now making a Melania Trump TV series](https://www.theverge.com/tech/1028854/amazon-melania-the-series-mgm-studios-prime-video)
-
-- **Nguon:** The Verge
-- **Thoi gian dang:** Chua ro
-
-> Following the Melania documentary movie that premiered earlier this year, Amazon is now planning to release a two-part Prime Video series focusing on the first lady. The show, Melania: The Series, is set to debut on November 20th. "MELANIA, The Series reveals never-before-told stories, offering unprecedented insight into Melania Trump's life, including the extraordinary days […]
-
----
-
-## 30. [Just about anyone can rent access to White House IP addresses](https://www.theverge.com/tech/1028835/white-house-residential-proxy)
-
-- **Nguon:** The Verge
-- **Thoi gian dang:** Chua ro
-
-> Someone at the White House appears to be running software that could enable outsiders to rent access on the presidential network for just "a few dollars," as reported by Krebs on Security and The Register. That's according to findings from the security firms Layer3 Intel and Synthient, which discovered residential proxy activity on the White […]
 
 ---

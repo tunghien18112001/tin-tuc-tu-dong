@@ -1,12 +1,21 @@
 # BAN TIN TUC TU DONG
 
-> Cap nhat lan cuoi: 08/11/2026 07:54 (gio Viet Nam)
+> Cap nhat lan cuoi: 09/11/2026 07:57 (gio Viet Nam)
 
 > Tong so bai: 30
 
 ---
 
-## 1. [Can the Zelda remake capture the magic of the original?](https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss)
+## 1. [Government 'looking seriously' at banning under-16s from Vinted and eBay](https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-11-08 15:37
+
+> The culture secretary confirms reports they could be in the list of platforms set to be banned next March.
+
+---
+
+## 2. [Can the Zelda remake capture the magic of the original?](https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-08 00:37
@@ -15,7 +24,7 @@
 
 ---
 
-## 2. [Elon Musk appears to signal the end of the road for Cybertruck](https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss)
+## 3. [Elon Musk appears to signal the end of the road for Cybertruck](https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-06 21:49
@@ -24,7 +33,7 @@
 
 ---
 
-## 3. [AI stocks climb after trillions wiped from market values](https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss)
+## 4. [AI stocks climb after trillions wiped from market values](https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-06 21:06
@@ -33,7 +42,7 @@
 
 ---
 
-## 4. [Why the US midterms sparked an AI stock selloff](https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss)
+## 5. [Why the US midterms sparked an AI stock selloff](https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-06 18:32
@@ -42,7 +51,7 @@
 
 ---
 
-## 5. [Global stocks plunge as fears over US AI slowdown spread to Asia and Europe](https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss)
+## 6. [Global stocks plunge as fears over US AI slowdown spread to Asia and Europe](https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-06 13:25
@@ -51,7 +60,7 @@
 
 ---
 
-## 6. [The engine parts that 'fight the laws of the universe'](https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss)
+## 7. [The engine parts that 'fight the laws of the universe'](https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-06 00:06
@@ -60,7 +69,7 @@
 
 ---
 
-## 7. [Elon Musk's millions failed to deliver Republican wins in fierce midterms](https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss)
+## 8. [Elon Musk's millions failed to deliver Republican wins in fierce midterms](https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-04 21:41
@@ -69,7 +78,7 @@
 
 ---
 
-## 8. [French blood storage impacted by freezer hacks as theories swirl about culprits](https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss)
+## 9. [French blood storage impacted by freezer hacks as theories swirl about culprits](https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-04 16:26
@@ -78,7 +87,7 @@
 
 ---
 
-## 9. [Graduates are managing AI - but are they learning much else?](https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss)
+## 10. [Graduates are managing AI - but are they learning much else?](https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-04 00:04
@@ -87,16 +96,88 @@
 
 ---
 
-## 10. [Binance says fake job interviews used as part of $6.3bn crypto hack](https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss)
+## 11. [Apps to distract you from the endless cycle of doomscrolling](https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/)
 
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-11-03 16:19
+- **Nguon:** TechCrunch
+- **Thoi gian dang:** 2026-11-08 22:00
 
-> An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.
+> It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.
 
 ---
 
-## 11. [After the midterms, things are looking rocky for Elon Musk and data centers](https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/)
+## 12. [Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy](https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/)
+
+- **Nguon:** TechCrunch
+- **Thoi gian dang:** 2026-11-08 21:00
+
+> In a memo to the company, Huang admitted that he had an affair.
+
+---
+
+## 13. [If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be](https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/)
+
+- **Nguon:** TechCrunch
+- **Thoi gian dang:** 2026-11-08 21:00
+
+> Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?
+
+---
+
+## 14. [Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.](https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/)
+
+- **Nguon:** TechCrunch
+- **Thoi gian dang:** 2026-11-08 20:30
+
+> Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.
+
+---
+
+## 15. [Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board](https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/)
+
+- **Nguon:** TechCrunch
+- **Thoi gian dang:** 2026-11-08 19:51
+
+> A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.
+
+---
+
+## 16. [SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’](https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/)
+
+- **Nguon:** TechCrunch
+- **Thoi gian dang:** 2026-11-08 18:00
+
+> SNL seems to have its knives out for tech executives.
+
+---
+
+## 17. [He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.](https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/)
+
+- **Nguon:** TechCrunch
+- **Thoi gian dang:** 2026-11-08 17:30
+
+> Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.
+
+---
+
+## 18. [TechCrunch Mobility: The Cybertruck experiment is over](https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/)
+
+- **Nguon:** TechCrunch
+- **Thoi gian dang:** 2026-11-08 17:02
+
+> Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
+
+---
+
+## 19. [Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me](https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/)
+
+- **Nguon:** TechCrunch
+- **Thoi gian dang:** 2026-11-08 15:00
+
+> The AutoBarista's "Grind iQ" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.
+
+---
+
+## 20. [After the midterms, things are looking rocky for Elon Musk and data centers](https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/)
 
 - **Nguon:** TechCrunch
 - **Thoi gian dang:** 2026-11-07 22:07
@@ -105,173 +186,92 @@
 
 ---
 
-## 12. [Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo](https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/)
+## 21. [Here’s the full text of Jensen Huang’s memo to Nvidia](https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia)
 
-- **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-07 21:17
+- **Nguon:** The Verge
+- **Thoi gian dang:** Chua ro
 
-> A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.
-
----
-
-## 13. [Parents want safer phones for kids. These companies are answering the call.](https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/)
-
-- **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-07 19:00
-
-> As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.
+> On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my […]
 
 ---
 
-## 14. [Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack](https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/)
+## 22. [Soul Glo’s Diaspora Problems is a hardcore record like no other](https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review)
 
-- **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-07 17:24
+- **Nguon:** The Verge
+- **Thoi gian dang:** Chua ro
 
-> The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.
-
----
-
-## 15. [Amazon’s new basic Kindle proves you don’t need all the bells and whistles](https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/)
-
-- **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-07 17:18
-
-> Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.
+> Soul Glo has a new record called NA I'M GON GRAB ALLAT coming out in January, and I, for one, can not wait. While two singles have dropped, it's not enough to truly tide me over, so I've been revisiting Songs to Yeet at the Sun and my favorite album of 2022 - Diaspora Problems. […]
 
 ---
 
-## 16. [Sequoia shutting down its Scouts program marks the end of an era](https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/)
+## 23. [Epic Games Launcher is coming to SteamOS](https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos)
 
-- **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-07 05:01
+- **Nguon:** The Verge
+- **Thoi gian dang:** Chua ro
 
-> Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.
-
----
-
-## 17. [From the front row to the hot seat — what the midterms mean for Big Tech](https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/)
-
-- **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-07 04:16
-
-> After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.
+> In October, Epic Games said that it was "investigating" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported distro. Now, Communications Director Jake Jones has confirmed SteamOS compatibility, along with a handful of other distros, to GamingOnLinux. In response […]
 
 ---
 
-## 18. [Crusoe sells troubled Wyoming data center project to Google](https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/)
+## 24. [Nvidia is investigating Jensen Huang’s relationship with a Chinese spy](https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy)
 
-- **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-07 01:40
+- **Nguon:** The Verge
+- **Thoi gian dang:** Chua ro
 
-> The deal highlights the challenges of developing massive AI data centers.
-
----
-
-## 19. [OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/)
-
-- **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-06 22:53
-
-> OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.
+> Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is initiating an independent investigation in light […]
 
 ---
 
-## 20. [The Duo apps are coming, says Apple](https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/)
+## 25. [Apple is racing to make Siri more agentic](https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic)
 
-- **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-06 21:38
+- **Nguon:** The Verge
+- **Thoi gian dang:** Chua ro
 
-> There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.
+> Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's […]
 
 ---
 
-## 21. [The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance](https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions)
+## 26. [Elvis and Eminem rights holders are suing Suno](https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit)
+
+- **Nguon:** The Verge
+- **Thoi gian dang:** Chua ro
+
+> Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's […]
+
+---
+
+## 27. [Apple’s M5 MacBook Air is down to its lowest price since July](https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale)
+
+- **Nguon:** The Verge
+- **Thoi gian dang:** Chua ro
+
+> The latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we’ve seen this $200 discount following the company’s hefty price increases over the summer. Although the base model — which features Apple’s M5 processor, 16GB of RAM, and 512GB of storage — often sold for around $950 to $1,000 shortly after […]
+
+---
+
+## 28. [Chatbots might be coming to Apple’s HomeView](https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview)
+
+- **Nguon:** The Verge
+- **Thoi gian dang:** Chua ro
+
+> Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a "Conversational Apps" category. While there are no details about what apps would fall under that heading, it seems reasonable that AI chatbots like ChatGPT and Claude could be added to […]
+
+---
+
+## 29. [There’s no slowing down media’s pivot-to-video 2.0](https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot)
+
+- **Nguon:** The Verge
+- **Thoi gian dang:** Chua ro
+
+> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the pressures of creating content for the internet, follow Mia Sato. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Almost exactly a decade […]
+
+---
+
+## 30. [The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance](https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
 > With temperatures rising to the 90s in Los Angeles, avoiding the heat wasn't exactly an option while I was at a relative's outdoor party in August. So I sat beneath a patio umbrella with a powerful fan nearby, figuring I was protected from the sun and heat. Half an hour later, I felt exhausted, dizzy, […]
-
----
-
-## 22. [Costco members can get $5 off the reimagined Ocarina of Time](https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale)
-
-- **Nguon:** The Verge
-- **Thoi gian dang:** Chua ro
-
-> While some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time, it’s not too late to save if you missed out. Costco members can currently get $5 off the digital version online, bringing the price down to $54.99. Considering an annual Costco membership runs $65, that discount almost offsets […]
-
----
-
-## 23. [Discogs’ Kevin Lewandowski can’t live without his AeroPress](https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview)
-
-- **Nguon:** The Verge
-- **Thoi gian dang:** Chua ro
-
-> Twenty-five years ago, Kevin Lewandowski founded Discogs, arguably the destination online for obsessive vinyl collectors and music nerds of all stripes. It is a marketplace for buying and selling records, obviously, but it's also become so much more. It's a shockingly comprehensive database that covers not just albums and singles, but all the various versions […]
-
----
-
-## 24. [NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake](https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review)
-
-- **Nguon:** The Verge
-- **Thoi gian dang:** Chua ro
-
-> Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, "Chicken again?" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best […]
-
----
-
-## 25. [The US let Nvidia sell chips to an empty office in China](https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government)
-
-- **Nguon:** The Verge
-- **Thoi gian dang:** Chua ro
-
-> Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, "a hollow gray shell […]
-
----
-
-## 26. [AI broke the cybersecurity world. What’s next?](https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos)
-
-- **Nguon:** The Verge
-- **Thoi gian dang:** Chua ro
-
-> Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say […]
-
----
-
-## 27. [Good riddance, Cybertruck!](https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash)
-
-- **Nguon:** The Verge
-- **Thoi gian dang:** Chua ro
-
-> I'm calling it: time of death, November 6th, 1:30 AM, by tweet. Elon Musk's declaration Friday that Tesla would be "winding down" production of the Cybertruck next year to make room for the Cybercab was fascinating for a number of reasons. First, it was a humiliating way to kill a vehicle that was once hailed […]
-
----
-
-## 28. [Zelda is back and better than ever](https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer)
-
-- **Nguon:** The Verge
-- **Thoi gian dang:** Chua ro
-
-> Hi, friends! Welcome to Installer No. 151, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, get psyched because it's officially Bad Holiday Movie Season, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Andrew Garfield and GTA […]
-
----
-
-## 29. [Why a new report on Anthropic automating AI development is alarming researchers](https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development)
-
-- **Nguon:** The Verge
-- **Thoi gian dang:** Chua ro
-
-> Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation […]
-
----
-
-## 30. [OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO](https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation)
-
-- **Nguon:** The Verge
-- **Thoi gian dang:** Chua ro
-
-> OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal […]
 
 ---

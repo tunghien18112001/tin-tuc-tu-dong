@@ -1,12 +1,75 @@
 # BAN TIN TUC TU DONG
 
-> Cap nhat lan cuoi: 12/11/2026 08:02 (gio Viet Nam)
+> Cap nhat lan cuoi: 13/11/2026 07:59 (gio Viet Nam)
 
 > Tong so bai: 30
 
 ---
 
-## 1. [New Indian mega library rocked by scandal over 'AI-generated books'](https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss)
+## 1. [The rise of 'housefishing' - when does using AI go from enhancing to misleading?](https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-11-13 00:13
+
+> Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.
+
+---
+
+## 2. [Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil](https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-11-12 23:34
+
+> US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.
+
+---
+
+## 3. [The rise and fall of Jensen Huang - how the tech superstar became mired in scandal](https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-11-12 17:11
+
+> Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.
+
+---
+
+## 4. [How AI visionary Jensen Huang was undone by his own bad decisions](https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-11-12 16:43
+
+> Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.
+
+---
+
+## 5. [What we know as Nvidia CEO Jensen Huang resigns over affair allegations](https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-11-12 15:26
+
+> The billionaire tech executive has left the company following reports of a second extramarital affair.
+
+---
+
+## 6. [Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?](https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-11-12 15:10
+
+> Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.
+
+---
+
+## 7. [Lego marketplace BrickLink offline after 'unusual activity' detected](https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-11-11 22:26
+
+> Known as the eBay of Lego, it has been down for three days and is yet to disclose what caused the shutdown.
+
+---
+
+## 8. [New Indian mega library rocked by scandal over 'AI-generated books'](https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-11 11:33
@@ -15,16 +78,7 @@
 
 ---
 
-## 2. [What we know so far about Jensen Huang's affair with suspected Chinese spy](https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-11-11 07:44
-
-> The billionaire tech executive finds himself mired in a personal and national security scandal.
-
----
-
-## 3. [Robot vessels take on the dangerous work of mine hunting](https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss)
+## 9. [Robot vessels take on the dangerous work of mine hunting](https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-11 00:19
@@ -33,7 +87,7 @@
 
 ---
 
-## 4. [Nvidia hires major US law firm to investigate alleged Chinese spy affair](https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss)
+## 10. [Nvidia hires major US law firm to investigate alleged Chinese spy affair](https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-10 22:52
@@ -42,236 +96,182 @@
 
 ---
 
-## 5. [Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning](https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-11-10 17:56
-
-> The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.
-
----
-
-## 6. [Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security](https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-11-10 09:23
-
-> Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.
-
----
-
-## 7. [Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy](https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-11-10 08:23
-
-> The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.
-
----
-
-## 8. [Australia considers criminal penalties for rogue AI in wake of OpenAI hack](https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-11-10 05:22
-
-> AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.
-
----
-
-## 9. [Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond](https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-11-09 21:52
-
-> Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.
-
----
-
-## 10. [Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy](https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-11-09 19:58
-
-> The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.
-
----
-
-## 11. [The unfolding Jensen Huang scandal: a timeline](https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/)
+## 11. [Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump](https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-11 23:50
+- **Thoi gian dang:** 2026-11-12 22:42
 
-> The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.
+> This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.
 
 ---
 
-## 12. [Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang](https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/)
+## 12. [Muse can now place calls to US businesses — if you pay](https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-11 23:28
+- **Thoi gian dang:** 2026-11-12 22:22
 
-> As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.
+> Muse's AI can now place outbound calls to U.S. businesses — but it's not free.
 
 ---
 
-## 13. [Jensen Huang accused of having another affair — with an Nvidia exec](https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/)
+## 13. [The unfolding Jensen Huang scandal: a timeline](https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-11 23:17
+- **Thoi gian dang:** 2026-11-12 21:35
 
-> Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.
+> Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.
 
 ---
 
-## 14. [Why the data center you dread might never even be built](https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/)
+## 14. [Nebius tests the neocloud playbook with $40 billion in planned spending](https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-11 20:15
+- **Thoi gian dang:** 2026-11-12 21:27
 
-> The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place. With billions of dollars in AI infrastructure […]
+> Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.
 
 ---
 
-## 15. [Meta is losing its longtime head of infrastructure](https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/)
+## 15. [Jensen Huang was having a third affair, Reuters reports](https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-11 20:12
+- **Thoi gian dang:** 2026-11-12 20:26
 
-> Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.
+> Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.
 
 ---
 
-## 16. [Olaf Sakkers is betting he can beat the emerging-manager squeeze](https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/)
+## 16. [Google’s latest Search upgrade promises better answers to your most complicated questions](https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-11 20:04
+- **Thoi gian dang:** 2026-11-12 19:27
 
-> Entering into the world of venture capital has never been easy, especially as a first-time fund manager. But it's especially daunting right now. Olaf Sakkers has spent the past five years proving that difficult doesn't mean impossible.
+> Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.
 
 ---
 
-## 17. [CoreWeave turns to customer prepayments, shorter contracts to fund AI growth](https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/)
+## 17. [Nectar launches an AI agent to automate creator discovery and outreach for brands](https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-11 19:54
+- **Thoi gian dang:** 2026-11-12 19:11
 
-> CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.
+> Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.
 
 ---
 
-## 18. [With $720M round, Britain’s Fractile gets a leg up in the race for AI chips](https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/)
+## 18. [Microsoft’s Outlook email hit by new outage](https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-11 19:34
+- **Thoi gian dang:** 2026-11-12 19:03
 
-> Fractile has now become one of the top-funded players in the race for purpose-built AI chips.
+> Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users.
 
 ---
 
-## 19. [Congress to call Jensen Huang in to answer for alleged Chinese spy affair](https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/)
+## 19. [Jensen Huang’s exit puts Nvidia’s support for open source in question](https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-11 19:22
+- **Thoi gian dang:** 2026-11-12 18:39
 
-> Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.
+> Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.
 
 ---
 
-## 20. [Is Jensen Huang’s bad behavior more commonplace than it seems?](https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/)
+## 20. [Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit](https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-11 16:16
+- **Thoi gian dang:** 2026-11-12 17:36
 
-> “There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.
+> Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.
 
 ---
 
-## 21. [Nvidia is reportedly preparing to fire Jensen Huang](https://www.theverge.com/tech/1031652/jensen-huang-rumor)
+## 21. [Donald Trump really wants Tim Cook to run Nvidia](https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who […]
+> Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But President Donald Trump is already throwing around one person he thinks should take over the chipmaking giant: former Apple CEO Tim […]
 
 ---
 
-## 22. [Hands on with Home Assistant’s new ‘smart home multi-tool’](https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on)
+## 22. [Xbox announces Wolfenstein 3](https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more non-smart devices into your smart home. It's part of Home Assistant's ongoing efforts to become more user-friendly. And it's working. I've been testing […]
+> It's been nearly a decade since Bethesda's MachineGames released Wolfenstein II: The New Colossus in 2017, and now Xbox is ready to announce a sequel from the studio. Wolfenstein 3 was officially announced today, just days after Bethesda also confirmed that the next Elder Scrolls game will be called The Elder Scrolls VI: Sentinel. In […]
 
 ---
 
-## 23. [United won’t let your AI agent book your flight](https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents)
+## 23. [Whoop launched a social network where every user has a ‘verified heartbeat’](https://www.theverge.com/gadgets/1032630/whoop-humans-social-network)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned […]
+> Starting Thursday, Whoop members can share their data from its wearables on the app's new Whoop Humans social network. Users can make their metrics, activities, and achievements visible to other Whoop wearers, post Story-like "Moments" with photos and captions, and add comments and reactions on other members' posts. Whoop claims its platform is "entirely human," […]
 
 ---
 
-## 24. [Loot boxes, influencers, and addictive features face an EU crackdown](https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection)
+## 24. [Humble Bundle redesign removes two-factor verification from settings](https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make "your online experience fairer." The newly proposed Digital Fairness Act (DFA) published by the EU Commission on Wednesday is designed to tackle practices that exploit consumers into spending more of their time and money online, […]
+> The Humble Bundle storefront for buying games and other software recently got a new look, but on the settings page, it no longer offers a way to add or update two-factor verification methods, as reported by Kotaku. PC Gamer also points out that there are Humble Bundle support pages discussing two-factor verification, and the writer […]
 
 ---
 
-## 25. [Toyota’s Scion is back, starting with an American-made, 25-mph kei truck](https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival)
+## 25. [Microsoft Outlook is still down](https://www.theverge.com/tech/1032226/microsoft-outlook-is-down)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Toyota is dusting off the Scion badge for a radically different mission. Rather than targeting youth-market hatchbacks, "Scion by Toyota" is being positioned as an experimental mobility incubator - and its first vehicle is an authentic Japanese-style kei truck built in Indiana. Kei vehicles, which are built to satisfy Japan's light vehicle regulations, are enjoying […]
+> Since just before 1PM ET on Thursday, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft quickly acknowledged the issue from its Microsoft 365 Status account, saying that "We've determined a portion of infrastructure is experiencing elevated load across multiple regions, which […]
 
 ---
 
-## 26. [Google’s Tabletop AI experiment lets you build custom collaboration apps](https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability)
+## 26. [Xbox owners are getting more customizations for backgrounds and the Guide menu](https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature that allows you to vibecode personalized interactive tools by describing […]
+> Microsoft is starting to test new customization options for Xbox consoles today. Xbox Insiders will be able to start testing new rotating backgrounds, new library options for digital games, and the ability to move the Xbox Guide menu to the right-hand side. "Xbox Insiders can now save favorite dynamic backgrounds and shuffle through them automatically," […]
 
 ---
 
-## 27. [The best early Black Friday deals you can already shop](https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026)
+## 27. [Google’s new Gemini model is better at understanding complicated questions](https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> The countdown to Black Friday is on, and the first discounts are starting to appear. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn’t necessarily mean you’re getting a historically low […]
+> Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including "questions with multiple parts, hard-to-understand typos, or highly specific requests." The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google […]
 
 ---
 
-## 28. [Sharge’s eye-catching MacBook charger is over 25 percent off](https://www.theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale)
+## 28. [‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation](https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Looking for a MacBook and device charger that’s as stylish as it is capable? Both Amazon and Sharge are selling the Pixel 140W GaN charger for $69.88 and $69.90, respectively, a $24 discount on its usual price. If you’re not in need of that much wattage but like the style, Sharge is also selling the […]
+> Nvidia announced this morning that Jensen Huang has resigned as CEO following reports of two affairs, including one with an alleged Chinese spy and one with a direct report. The situation surrounding Huang has unfolded quickly, with The New York Times only reporting on Friday that Huang and the suspected spy were "close" before other […]
 
 ---
 
-## 29. [Ocarina of Time is even better if you use a smartphone app](https://www.theverge.com/games/1031321/the-legend-of-zelda-ocarina-of-time-notes-app-gold-skulltula)
+## 29. [The Oura Ring 4 is almost as good as the newer model, but $150 cheaper](https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> I never liked hunting for Golden Skulltulas in The Legend of Zelda: Ocarina of Time. The game has 100 of them tucked all over Hyrule, and even over my many hours with the N64 classic growing up, I can't remember ever actually finding all of them, or even wanting to. Jumping into the Ocarina of […]
+> The previous-generation Oura Ring 4 is on sale for as low as $249 at Amazon, Best Buy, and Target, $100 off the retail price, and the first big discount on the device since July. The price varies a bit by size and color, with most silver and black models in stock at the lowest price […]
 
 ---
 
-## 30. [Google’s AlphaGenome 2 zooms in on the cellular roots of disease](https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model)
+## 30. [Here are the 25 original Xbox games you can now play on PC](https://www.theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments. AlphaGenome 2 is the successor […]
+> For the 25th anniversary of Xbox, Microsoft is beginning to make good on its paid "next-gen game preservation" promise. Starting today, you can play 25 different original Xbox games on your Windows PC, as long as you have (or are willing to pay) for digital copies. In July, Microsoft originally launched the idea with just […]
 
 ---

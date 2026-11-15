@@ -1,12 +1,30 @@
 # BAN TIN TUC TU DONG
 
-> Cap nhat lan cuoi: 14/11/2026 07:53 (gio Viet Nam)
+> Cap nhat lan cuoi: 15/11/2026 07:56 (gio Viet Nam)
 
 > Tong so bai: 30
 
 ---
 
-## 1. [Even Grand Theft Auto's original creators haven't been able to play GTA 6](https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss)
+## 1. [Italy fines Meta €805m over accessing users' photos](https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-11-14 18:28
+
+> The social media giant is accused of not informing 20 million users it had access to their photos.
+
+---
+
+## 2. [Microsoft says services fully restored after day-long global outage](https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-11-14 06:42
+
+> Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.
+
+---
+
+## 3. [Even Grand Theft Auto's original creators haven't been able to play GTA 6](https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-14 00:37
@@ -15,7 +33,7 @@
 
 ---
 
-## 2. [How the Jensen Huang scandal created a headache for business-friendly Singapore](https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss)
+## 4. [How the Jensen Huang scandal created a headache for business-friendly Singapore](https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-13 23:00
@@ -24,7 +42,7 @@
 
 ---
 
-## 3. [Microsoft outage 'stark reminder' of how much we rely on tech](https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss)
+## 5. [Microsoft outage 'stark reminder' of how much we rely on tech](https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-13 21:15
@@ -33,16 +51,7 @@
 
 ---
 
-## 4. [Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption](https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-11-13 21:14
-
-> Experts say the event is a "stark reminder" of how heavily the world relies on a small group of big tech providers.
-
----
-
-## 5. [Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal](https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss)
+## 6. [Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal](https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-13 19:53
@@ -51,7 +60,7 @@
 
 ---
 
-## 6. [Why is Microsoft's outage lasting so long and will emails be lost?](https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss)
+## 7. [Why is Microsoft's outage lasting so long and will emails be lost?](https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-13 18:36
@@ -60,7 +69,7 @@
 
 ---
 
-## 7. [Courts, spies and MPs: How the Microsoft outage has been felt around the world](https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&at_campaign=rss)
+## 8. [Courts, spies and MPs: How the Microsoft outage has been felt around the world](https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-13 17:34
@@ -69,7 +78,7 @@
 
 ---
 
-## 8. [NHS, schools and police forces hit by Microsoft outage](https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss)
+## 9. [NHS, schools and police forces hit by Microsoft outage](https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-13 13:41
@@ -78,7 +87,7 @@
 
 ---
 
-## 9. [How a sex scandal at Nvidia is putting pressure on the White House](https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss)
+## 10. [How a sex scandal at Nvidia is putting pressure on the White House](https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-13 12:22
@@ -87,16 +96,70 @@
 
 ---
 
-## 10. [What we know so far about the Microsoft outage](https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss)
+## 11. [Where was Nvidia’s security team?](https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/)
 
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-11-13 11:43
+- **Nguon:** TechCrunch
+- **Thoi gian dang:** 2026-11-15 00:08
 
-> A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.
+> Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.
 
 ---
 
-## 11. [Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price](https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/)
+## 12. [Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang](https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/)
+
+- **Nguon:** TechCrunch
+- **Thoi gian dang:** 2026-11-14 21:41
+
+> The petition had attracted more than 115,000 signatures as of Saturday afternoon.
+
+---
+
+## 13. [Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee](https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/)
+
+- **Nguon:** TechCrunch
+- **Thoi gian dang:** 2026-11-14 20:04
+
+> Even Elon Musk said the monthly fee is "too high."
+
+---
+
+## 14. [Got an iPhone Duo? These 9 settings make it easier to use](https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/)
+
+- **Nguon:** TechCrunch
+- **Thoi gian dang:** 2026-11-14 18:00
+
+> From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.
+
+---
+
+## 15. [Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide](https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/)
+
+- **Nguon:** TechCrunch
+- **Thoi gian dang:** 2026-11-14 17:45
+
+> FAA administrator Bryan Bedford also said there's "zero evidence of anything AI-related."
+
+---
+
+## 16. [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)
+
+- **Nguon:** TechCrunch
+- **Thoi gian dang:** 2026-11-14 17:30
+
+> From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations.
+
+---
+
+## 17. [Asian governments react to Nvidia CEO Jensen Huang’s exit](https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/)
+
+- **Nguon:** TechCrunch
+- **Thoi gian dang:** 2026-11-14 16:34
+
+> Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.
+
+---
+
+## 18. [Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price](https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/)
 
 - **Nguon:** TechCrunch
 - **Thoi gian dang:** 2026-11-13 23:00
@@ -105,7 +168,7 @@
 
 ---
 
-## 12. [Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say](https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/)
+## 19. [Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say](https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/)
 
 - **Nguon:** TechCrunch
 - **Thoi gian dang:** 2026-11-13 22:43
@@ -114,7 +177,7 @@
 
 ---
 
-## 13. [US government grounds all flights across the United States ‘due to extraordinary circumstances’](https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/)
+## 20. [US government grounds all flights across the United States ‘due to extraordinary circumstances’](https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/)
 
 - **Nguon:** TechCrunch
 - **Thoi gian dang:** 2026-11-13 21:44
@@ -123,155 +186,92 @@
 
 ---
 
-## 14. [This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board](https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/)
-
-- **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-13 20:07
-
-> Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.
-
----
-
-## 15. [AI agent startup LangChain hits $3B valuation](https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/)
-
-- **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-13 19:37
-
-> LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.
-
----
-
-## 16. [Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!](https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/)
-
-- **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-13 18:40
-
-> New research shows the most advanced AI models from China were trained on banned Nvidia chips.
-
----
-
-## 17. [ChatGPT’s new Wallet lets AI agents shop and check out for you](https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/)
-
-- **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-13 16:00
-
-> ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.
-
----
-
-## 18. [The unfolding Jensen Huang scandal: a timeline](https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/)
-
-- **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-13 15:58
-
-> Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.
-
----
-
-## 19. [Uber confirms hackers stole thousands of drivers’ license information in data breach](https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/)
-
-- **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-13 14:57
-
-> The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident.
-
----
-
-## 20. [ElevenLabs’ new app combines meeting note-taking and dictation for teams](https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/)
-
-- **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-13 14:44
-
-> ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.
-
----
-
-## 21. [Amazon has a plan to index the world’s online shopping data](https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search)
+## 21. [Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship](https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the "World Product Graph," is meant to make it less likely that shoppers leave Amazon to do their […]
+> After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its "Mechazilla" launch and catch tower for the first time. The company has performed 'chopstick' catches of its boosters before, but this is the first time the maneuver has successfully been executed on the Starship vehicle itself. SpaceX CEO Elon […]
 
 ---
 
-## 22. [FAA ground stop shuts down flights nationwide](https://www.theverge.com/news/1033489/faa-ground-stop)
+## 22. [Magic: The Gathering is getting a Netflix animated series. For real this time.](https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop "due to extraordinary circumstances and for reasons of safety," while planes in the air will be allowed to land. The FAA tweeted just after 5PM ET that, "There has been a temporary telecommunications outage - out of […]
+> "It's really happening. I promise. For real." Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated series heading to Netflix in 2027. An animated Magic: The Gathering series was first teased back in 2019 with Joe and Anthony Russo at […]
 
 ---
 
-## 23. [ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you](https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet)
+## 23. [Work to replace old copper wire led to the FAA’s ground stop](https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and "eligible US-issued American Express, Chase, Mastercard and Visa cards." After adding a card […]
+> At a press conference today, Transportation Secretary Sean Duffy said that Friday's nationwide ground stop ordered by the FAA was related to work replacing outdated copper wire with a fiber optic line at a "remote FAA facility." The secretary said that this was "routine maintenance," rather than the result of a major modernization effort. He […]
 
 ---
 
-## 24. [CMF’s milk carton-shaped Bluetooth speaker is down to a new low price](https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale)
+## 24. [Here are our favorite deals from REI’s giant Holiday Sale](https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Amazon and Nothing for just $39. That’s a solid $20 discount and the lowest price we’ve seen on Nothing’s newfangled wireless speaker, […]
+> Black Friday has become a shopping season of its own, with retailers once again offering discounts well ahead of the actual shopping holiday. We’ve already rounded up some of the best early Black Friday deals we’ve come across, but if you’re looking to save on outdoor gear or pick up something for an upcoming trip, […]
 
 ---
 
-## 25. [Here’s how you can save on your GTA VI preorder ahead of launch](https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale)
+## 25. [The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs](https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> The long-awaited launch of GTA VI is around the corner, happening next Friday, November 19th. While discounts on the game itself will be rare for some time, there’s a clever workaround to save you a few bucks on your digital copy. We found discounts on gift cards for both Sony PlayStation and Microsoft Xbox Series […]
+> Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on […]
 
 ---
 
-## 26. [You can adjust the position of the trackball on Keychron’s new wireless mouse](https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable)
+## 26. [Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print](https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> The Nape Pro was Keychron's first trackball device that was introduced at CES 2026 with a slim and compact design allowing it to be positioned right up against a keyboard. The company's new T1 HE instead looks more like other trackball mice already available from companies like Logitech and Kensington with a 34mm ball positioned […]
+> Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to "select customers" to purchase a Cybercab for "personal use." But the gilded, steering-wheel-free two-seater will "only be available in supported service areas" - meaning you'll only be able to buy one if you live in one […]
 
 ---
 
-## 27. [Jensen Huang was reckless with the environment, too](https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution)
+## 27. [This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers](https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Under cofounder Jensen Huang, Nvidia has become the engine for the AI boom - and one of the tech industry's biggest environmental liabilities. Its sought-after chips have triggered a new wave of water- and chemical-intensive factories, drained power grids from inside massive data centers, and set the stage for a looming e-waste problem. Under Huang's […]
+> As much as I appreciate the ingenious design of the Nintendo Switch's Joy-Con, my family and I can't stand using them as standalone gamepads. So when we travel with the Switch 2, we always bring at least one full-size gamepad, plus a couple of 8BitDo's Zero 2 controllers for games that don't use analog thumbsticks. […]
 
 ---
 
-## 28. [The smallest version of Camp Snap’s retro digital camcorder fits on your keychain](https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain)
+## 28. [A gadget to make your dumb house smarter](https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Last week, Camp Snap launched a miniaturized version of its screen-free CS-8 video camera that was half the size of the original with a smaller grip designed to be easier for kids to hold. But it turns out the company wasn't done shrinking its hardware. Camp Snap's new CS-8 Micro is even smaller than the […]
+> Hi, friends! Welcome to Installer No. 152, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for taking time away from Zelda to be here, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about school apps […]
 
 ---
 
-## 29. [The new Apple TV has a YouTube problem](https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error)
+## 29. [Jensen Huang and the decline of the visionary showman founder CEO](https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> People who received the brand new Apple TV 4k today saw some strange error messages as soon as they opened the YouTube app. As the first units arrived, the app was initially only showing a black screen with a QR code and an error message saying "YouTube is not yet available on this device." In […]
+> On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black leather jacket that […]
 
 ---
 
-## 30. [Microsoft’s massive Outlook outage might be over](https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage)
+## 30. [FAA lifts nationwide ground stop that blocked takeoffs for hours](https://www.theverge.com/news/1033489/faa-ground-stop)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Service is recovering for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degraded state on Friday morning, some people (including Verge staffers) reported that access to their emails had been restored, though the flow of Outlook mail […]
+> Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET "due to extraordinary circumstances and for reasons of safety." More than four hours after the stop was issued, officials announced it was lifted at 8:15PM ET and that flights will resume. It's unclear how […]
 
 ---

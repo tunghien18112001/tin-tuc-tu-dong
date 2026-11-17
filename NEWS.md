@@ -1,21 +1,66 @@
 # BAN TIN TUC TU DONG
 
-> Cap nhat lan cuoi: 16/11/2026 08:14 (gio Viet Nam)
+> Cap nhat lan cuoi: 17/11/2026 07:58 (gio Viet Nam)
 
 > Tong so bai: 30
 
 ---
 
-## 1. [Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says](https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss)
+## 1. [The AI start-ups fixing India's broken roads and messy land records](https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
-- **Thoi gian dang:** 2026-11-15 22:24
+- **Thoi gian dang:** 2026-11-16 23:25
+
+> From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.
+
+---
+
+## 2. [California sues OpenAI over Hugging Face attack](https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-11-16 23:12
+
+> Attorney General Rob Bonta alleges OpenAI misled and endangered the public
+
+---
+
+## 3. [Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO](https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-11-16 22:21
+
+> A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.
+
+---
+
+## 4. [GTA 6 hacker pleads guilty after release from secure hospital](https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-11-16 13:34
+
+> 21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.
+
+---
+
+## 5. [Intel sued by investors after PC sales slump hits share price](https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-11-16 03:04
+
+> A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.
+
+---
+
+## 6. [Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says](https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-11-16 01:47
 
 > The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.
 
 ---
 
-## 2. [South Korea's top scorer in tax accountancy exam admits cheating](https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss)
+## 7. [South Korea's top scorer in tax accountancy exam admits cheating](https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-15 13:37
@@ -24,7 +69,7 @@
 
 ---
 
-## 3. [Italy fines Meta €805m over accessing users' photos](https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss)
+## 8. [Italy fines Meta €805m over accessing users' photos](https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-14 18:28
@@ -33,7 +78,7 @@
 
 ---
 
-## 4. [Microsoft says services fully restored after day-long global outage](https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss)
+## 9. [Microsoft says services fully restored after day-long global outage](https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-14 06:42
@@ -42,7 +87,7 @@
 
 ---
 
-## 5. [Even Grand Theft Auto's original creators haven't been able to play GTA 6](https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss)
+## 10. [Even Grand Theft Auto's original creators haven't been able to play GTA 6](https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-14 00:37
@@ -51,227 +96,182 @@
 
 ---
 
-## 6. [How the Jensen Huang scandal created a headache for business-friendly Singapore](https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-11-13 23:00
-
-> The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.
-
----
-
-## 7. [Microsoft outage 'stark reminder' of how much we rely on tech](https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-11-13 21:15
-
-> Microsoft has apologised for the issue, which it said was due to a technical failure.
-
----
-
-## 8. [Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal](https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-11-13 19:53
-
-> Scott Bessent told CNBC that several government agencies "were in favour of putting Megaspeed on the entity list for months".
-
----
-
-## 9. [Why is Microsoft's outage lasting so long and will emails be lost?](https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-11-13 18:36
-
-> Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.
-
----
-
-## 10. [Courts, spies and MPs: How the Microsoft outage has been felt around the world](https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-11-13 17:34
-
-> From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.
-
----
-
-## 11. [Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/)
+## 11. [Cybersecurity AI startup Corma reaches $1B valuation in about 3 months](https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-15 23:30
+- **Thoi gian dang:** 2026-11-16 23:32
 
-> Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.
+> Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.
 
 ---
 
-## 12. [Is bad news for Jensen Huang also bad news for the AI industry?](https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/)
+## 12. [Cyber giant Infoblox confirms security incident after hackers access ‘company information’](https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-15 21:56
+- **Thoi gian dang:** 2026-11-16 22:12
 
-> "Jensen is Nvidia, right? And so much of this economy is riding on Nvidia."
+> The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.
 
 ---
 
-## 13. [SNL gathers all the tech tycoons for a lesson in dating and spycraft](https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/)
+## 13. [All the questions Nvidia should answer on Tuesday — but probably won’t](https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-15 20:20
+- **Thoi gian dang:** 2026-11-16 22:03
 
-> While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.
+> Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.
 
 ---
 
-## 14. [Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending](https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/)
+## 14. [Apple reveals new Mac security controls as AI agents raise privacy risks](https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-15 18:29
+- **Thoi gian dang:** 2026-11-16 21:01
 
-> A new Kickstarter campaign aims to usher in the “return of the human internet.”
+> Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps.
 
 ---
 
-## 15. [TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry](https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/)
+## 15. [California state AG sues OpenAI over rogue agent incidents](https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-15 17:05
+- **Thoi gian dang:** 2026-11-16 20:07
 
-> Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
+> The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.
 
 ---
 
-## 16. [The tech products we enthusiastically recommend this holiday season](https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/)
+## 16. [Uber says hackers stole information on close to 150,000 driver’s licenses during data breach](https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-15 16:00
+- **Thoi gian dang:** 2026-11-16 19:53
 
-> We've been reviewing a bunch of new gadgets at TechCrunch this year, and we have some clear favorites to share for your Black Friday shopping and beyond.
+> The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a security incident.
 
 ---
 
-## 17. [Where was Nvidia’s security team?](https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/)
+## 17. [Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID](https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-15 00:08
+- **Thoi gian dang:** 2026-11-16 19:26
 
-> Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.
+> Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo, alongside other improvements.
 
 ---
 
-## 18. [Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang](https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/)
+## 18. [Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security](https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-14 21:41
+- **Thoi gian dang:** 2026-11-16 19:12
 
-> The petition had attracted more than 115,000 signatures as of Saturday afternoon.
+> Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.
 
 ---
 
-## 19. [Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee](https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/)
+## 19. [Island is a new screen-time app that turns staying off your phone into a game](https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-14 20:04
+- **Thoi gian dang:** 2026-11-16 18:54
 
-> Even Elon Musk said the monthly fee is "too high."
+> YC-backed Island turns screen time goals into a farming game, rewarding users with new crops, animals, and more when they stick to their limits.
 
 ---
 
-## 20. [Got an iPhone Duo? These 9 settings make it easier to use](https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/)
+## 20. [Tesla goes all-in on the Cybercab with upcoming €3B Berlin gigafactory expansion](https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-14 18:00
+- **Thoi gian dang:** 2026-11-16 18:21
 
-> From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.
+> Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin gigafactory.
 
 ---
 
-## 21. [Listen to this: Armand Hammer’s Snakes & Ladders](https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review)
+## 21. [Hacker behind 2022 GTA VI leaks pleads guilty](https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> I open with this caveat: I haven't had a ton of time to digest the surprise Armand Hammer record that dropped this week. Billy Woods and Elucid rarely miss, though, and my initial reaction is that Snakes & Ladders ranks among their best. It doesn't have the seamless throughline production-wise that their collabs with Alchemist […]
+> Arion Kurtaj, a member of the Lapsus$ cybercrime group who leaked 90 videos of Grand Theft Auto VI in 2022 and hacked other big companies, pleaded guilty on Monday, according to the UK's Crown Prosecution Service (CPS). Kurtaj, who is now 21, hacked BT/EE sometime between August and November 2021, and starting in early November […]
 
 ---
 
-## 22. [Vulcan rocket fails, destroying 40 Amazon Leo satellites](https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites)
+## 22. [Tech leaders are convinced that Jensen Huang’s exit was a plot against him](https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit. Leo is Amazon's competitor to SpaceX's Starlink, but it has struggled to get off the ground so far, putting only a small portion of the necessary satellites to challenge Starlink […]
+> Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result of a plot against the former CEO. At the […]
 
 ---
 
-## 23. [Jensen Huang might be plotting a return and more of the latest Nvidia drama](https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed)
+## 23. [United Airlines system outage disrupts departures just days after the big ground stop](https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a path back to CEO, […]
+> Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide, United Airlines departing flights are being disrupted by an outage. The airline has said it is working to get things up and running again as quickly as possible, but without much detail about the […]
 
 ---
 
-## 24. [Congress wants to tighten export rules on AI chips after Nvidia spy scandal](https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china)
+## 24. [In Get Huge, the manosphere is here to make friends — with deadly consequences](https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. Senate Minority […]
+> Before Clavicular and other manosphere streamers were introducing young guys to the concept of breaking their facial bones to become more attractive, there was an older generation of creators building massive followings with content focused on chemical biohacking. Were it not for steroid-obsessed influencers like Anthony "Tony Huge" Hughes launching YouTube channels over a decade […]
 
 ---
 
-## 25. [Fanttik’s S1 Pro electric screwdriver is $40 off in the run-up to Black Friday](https://www.theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale)
+## 25. [California sues OpenAI over rogue AI hacking incidents](https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Amazon’s early Black Friday promos are already underway, and we’ll be highlighting some of our favorites over the next few days on our Shopping page. Among them is the Fanttik S1 Pro Cordless Electric Screwdriver, which is currently matching its all-time low of $39.99 ($40 off) at Amazon for a limited time. Fanttik’s rechargeable tool […]
+> California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a "dangerous product without proper oversight," as reported earlier by Reuters. The lawsuit claims the […]
 
 ---
 
-## 26. [Apple’s first smart glasses are coming together](https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together)
+## 26. [Sam Altman says he wants everyone ‘to have a lot of RAM’](https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Apple's smart glasses are among the worst-kept secrets in the tech world. Bloomberg's Mark Gurman says the company's first model, which will lack augmented reality features, will be announced at June's WWDC next year. They likely won't ship right away, however, with Gurman saying only that "glasses shipments would begin before the end of the […]
+> OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. "I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer," Altman said today. "I think the home tinkering is great." […]
 
 ---
 
-## 27. [Rachelle Hampton won’t admit how long she spent charting the use of ‘murmur’ in Twilight](https://www.theverge.com/entertainment/1033895/rachelle-hampton-normal-gossip-interview)
+## 27. [Some of our favorite PlayStation games are steeply discounted for Black Friday](https://www.theverge.com/gadgets/1034339/sony-black-friday-game-sale-2026-deals)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Rachelle Hampton is a writer and co-owner at Defector Media, and the host of Normal Gossip, a podcast of anonymous listener-submitted stories about everyday drama. Whether that's lies about luxury wool in a literal knitting circle, the impeachment of a hypocritical HOA president, or a COVID outbreak at a destination wedding with an absurd 25 […]
+> Black Friday is approaching, and some companies are already rolling out the discounts ahead of the big day. If you’re hunting for PlayStation 5 accessories, we’ve already rounded up some of our favorite controllers and headsets from Sony’s ongoing promotion. However, if you’re looking to expand your library, some of the PS5’s biggest titles are […]
 
 ---
 
-## 28. [LG’s budget-friendly B6E OLED TV is up to 50 percent off this weekend](https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale)
+## 28. [Big Nuclear isn’t worried about the Democrats stopping data centers](https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> LG’s B6E was already one of the most affordable OLED TVs you could buy, but it’s an even better deal now that it’s included as part of Best Buy’s latest doorbuster event. Now through the end of today, November 15th, the 55-inch model is 50 percent off, dropping it to an all-time low of $699.99 […]
+> Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call last week, CEO Joe Dominguez was, for lack of a better word, unbothered as he addressed the blue wave. "I do think we've […]
 
 ---
 
-## 29. [The Sony Aibo was a robot revolution dressed like a dog](https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history)
+## 29. [US data centers now burn more electricity than a midsized country](https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> In the 1990s, Sony was absolutely convinced that we were on the precipice of a robot takeover. Pretty soon, the company decided, we'd all be living among countless humanoid robots. Some would be our coworkers; others would be our friends; and at least one would be our pet. And "pet" was exactly what Sony was […]
+> Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions. The study homes in on hyperscale facilities - the […]
 
 ---
 
-## 30. [An overview of Jensen Huang’s messy days](https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation)
+## 30. [The Apple Watch Series 12 is cheaper than ever ahead of Black Friday](https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started On October […]
+> If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connectivity, has dropped to a new all-time low of $329 at Amazon, Best Buy, and Walmart, beating the October Prime Day […]
 
 ---

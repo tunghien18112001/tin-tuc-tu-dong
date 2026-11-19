@@ -1,277 +1,277 @@
 # BAN TIN TUC TU DONG
 
-> Cap nhat lan cuoi: 18/11/2026 08:05 (gio Viet Nam)
+> Cap nhat lan cuoi: 19/11/2026 08:03 (gio Viet Nam)
 
 > Tong so bai: 30
 
 ---
 
-## 1. [Nvidia says it won't reinstate Huang as firm reports bumper results](https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss)
+## 1. [Claude-maker Anthropic poised for more than $1.4tn stock market debut](https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
-- **Thoi gian dang:** 2026-11-18 00:28
+- **Thoi gian dang:** 2026-11-18 23:44
+
+> Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.
+
+---
+
+## 2. [The seven Anthropic founders who are about to become multi-billionaires](https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-11-18 23:42
+
+> The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.
+
+---
+
+## 3. [Grand Theft Auto 6 is a masterpiece, say critics](https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-11-18 17:34
+
+> Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.
+
+---
+
+## 4. [Hacks, AI or just overdue updates - why have there been so many outages?](https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-11-18 13:16
+
+> There is no evidence these are linked, but the constant series of tech disruptions can be unnerving.
+
+---
+
+## 5. [British hacker who stole $11m through text message scheme jailed for six years in US](https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-11-18 09:28
+
+> Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager.
+
+---
+
+## 6. [Security flaw found in Java, world's third-largest programming language](https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-11-18 08:47
+
+> The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.
+
+---
+
+## 7. [How important are Nvidia and Jensen Huang to the US economy?](https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-11-18 06:04
+
+> The former Nvidia chief executive has been at the centre of the artificial intelligence boom.
+
+---
+
+## 8. [Watch: Marco Rubio says recent tech outages are 'completely unrelated' to one another](https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-11-18 05:10
+
+> Microsoft, major US banks, Apple and Air Traffic authorities have been hit over recent days by tech glitches.
+
+---
+
+## 9. [Waymo pulls driverless taxis from all US freeways](https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-11-18 03:07
+
+> The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.
+
+---
+
+## 10. [Nvidia says it won't reinstate Huang as it reports soaring sales](https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-11-18 01:18
 
 > The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.
 
 ---
 
-## 2. [Europe plans to catch the next computer chip wave](https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-11-18 00:00
-
-> Europe hopes to be a leader in a new generation of computer chips which use light to process data.
-
----
-
-## 3. [How new US chip restrictions on South East Asia will hit China](https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-11-17 14:25
-
-> The new rules restrict chip exports and also access to their computing power, which China relies on heavily.
-
----
-
-## 4. [NHS data contract to stay with Palantir until 2029](https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-11-17 12:00
-
-> Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029.
-
----
-
-## 5. [Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6](https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-11-17 11:49
-
-> Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox
-
----
-
-## 6. [US government confirms investigation into tech firm Megaspeed](https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-11-17 11:17
-
-> The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.
-
----
-
-## 7. ['We're a capitalist society': Grindr defends $120 a month premium tier](https://www.bbc.co.uk/news/articles/cr1ewlqjn694o?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-11-17 09:41
-
-> It says the ultra-premium service is intended for a "small community" of users - and could get more expensive in future.
-
----
-
-## 8. [Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss](https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-11-17 02:37
-
-> A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.
-
----
-
-## 9. [The AI start-ups fixing India's broken roads and messy land records](https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-11-16 23:25
-
-> From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.
-
----
-
-## 10. [OpenAI sued by California over Hugging Face attack](https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-11-16 23:12
-
-> Attorney General Rob Bonta alleges that the artificial intelligence misled and endangered the public.
-
----
-
-## 11. [Nvidia promises that revenue will keep soaring — for now](https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/)
+## 11. [Microsoft CEO Satya Nadella explains why he asked 60K employees to quit](https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-18 00:16
+- **Thoi gian dang:** 2026-11-19 00:42
 
-> Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.
+> Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.
 
 ---
 
-## 12. [Stripe backer Atomico calls for Europe to own its success stories](https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/)
+## 12. [Elon Musk says: ‘I’m not MAGA’](https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-18 00:01
+- **Thoi gian dang:** 2026-11-19 00:40
 
-> Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report.
+> During his appearance Wednesday at the Dealbook Summit conference, Elon Musk said that he wasn't sure what the term "MAGA" meant and also commented that he felt "pretty foolish" for having spent so much money during the U.S. midterms.
 
 ---
 
-## 13. [Nvidia is abandoning China after Jensen Huang’s ouster](https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/)
+## 13. [Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’](https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-17 23:37
+- **Thoi gian dang:** 2026-11-18 23:45
 
-> Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?
+> The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.
 
 ---
 
-## 14. [Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit](https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/)
+## 14. [Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’](https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-17 23:04
+- **Thoi gian dang:** 2026-11-18 23:25
 
-> Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.
+> “I don’t think [Huang is] disloyal to the United States," Musk said.
 
 ---
 
-## 15. [Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO](https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/)
+## 15. [Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit](https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-17 22:42
+- **Thoi gian dang:** 2026-11-18 23:17
 
-> The former CEO offered to return to his top role at the company after his resignation last week.
+> Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.
 
 ---
 
-## 16. [Amazon and Google will together own nearly 30% of Anthropic after its IPO](https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/)
+## 16. [Satya Nadella predicts AI agents will reshuffle the economics of the web](https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-17 22:29
+- **Thoi gian dang:** 2026-11-18 22:58
 
-> Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.
+> Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.
 
 ---
 
-## 17. [SEC reportedly investigating Nvidia amid Huang exit](https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/)
+## 17. [Anthropic reportedly prices IPO at $83 a share, above projected range](https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-17 21:48
+- **Thoi gian dang:** 2026-11-18 22:11
 
-> The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.
+> The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.
 
 ---
 
-## 18. [Google joins the tech outage trend by announcing it’s not having one](https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/)
+## 18. [Palmer Luckey doesn’t deny that he’s a prepper](https://techcrunch.com/2026/11/18/palmer-luckey-doesnt-deny-that-hes-a-prepper/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-17 21:34
+- **Thoi gian dang:** 2026-11-18 22:04
 
-> With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.
+> The Anduril founder said Wednesday that Americans should always have three days of food, water, and medicine — just in case.
 
 ---
 
-## 19. [Waymo suspends freeway rides nationwide after California DMV order](https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/)
+## 19. [Nvidia created a weird bit of intrigue by not filing a routine SEC report](https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-17 19:49
+- **Thoi gian dang:** 2026-11-18 21:57
 
-> The DMV said Waymo's freeway operations pose an imminent hazard to public safety. Restrictions will remain in place until Waymo can demonstrate that it has taken "effective corrective actions" to address the deficiencies.
+> One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.
 
 ---
 
-## 20. [Model ML raises $250M to automate investment banking grunt work](https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/)
+## 20. [Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’](https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-17 19:32
+- **Thoi gian dang:** 2026-11-18 21:34
 
-> The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.
+> The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.
 
 ---
 
-## 21. [Satya Nadella says he’s AGI-pilled now](https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now)
+## 21. [The nation’s largest school districts consider ditching Google Search](https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. "I am AGI pilled in the sense that at an economy level, what is the political economy's organization around AGI?" he asked […]
+> New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powered features without also disabling Search. Chris Phillips, Google's vice […]
 
 ---
 
-## 22. [Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond](https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon)
+## 22. [Democrats skip a vote on adding Brendan Carr’s adviser to the FCC](https://www.theverge.com/policy/1037134/democrats-boycott-fcc-nomination-vote-danielle-thumann-severs)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Robert Pattinson's casting as James Bond made enough sense given his recent work with director Denis Villeneuve, who's making the franchise's next film over at Amazon. But it turns out that Amazon founder Jeff Bezos played a significant role in making the final decision, too. During Semafor's Silicon Valley and the World conference today, Bezos […]
+> Senate commerce committee Chair Ted Cruz (R-TX) began a meeting Wednesday meant to confirm President Donald Trump's nominee to the Federal Communications Commission with a lopsided dais. To his right sat all 14 Republican members of the panel, including Senate Majority Leader John Thune (R-SD). To his left were about a dozen empty chairs - […]
 
 ---
 
-## 23. [Read everything that Nvidia’s board chair had to say about Jensen Huang](https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang)
+## 23. [Absolute Batman can save DC Studios](https://www.theverge.com/entertainment/1035722/absolute-batman-can-save-dc-studios)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. Jones. The leadership change followed Jensen Huang's resignation last week after reports he had multiple affairs - including one with former Megaspeed executive and alleged Chinese asset Alice […]
+> With James Gunn and Peter Safran out as the co-heads of DC Studios following Skydance's acquisition of Warner Bros. Discovery, it's unclear what will become of the cinematic universe that was building around movies like last year's Superman. Though Gunn's Man of Tomorrow feature might still come out, it seems like his larger vision for […]
 
 ---
 
-## 24. [iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair](https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub)
+## 24. [Trump’s latest land grab is an AI hub in the Philippines](https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> After finding recent versions of Apple's iPads and HomePods much easier to disassemble for battery replacements or other repairs, iFixit assumed it would be the same story for Apple's new HomeView hub that looks like a seven-inch tablet stuck to a smart speaker. The reality was much different and by the time they got the […]
+> President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags. A band played "YMCA," a staple at Trump rallies, as more girls in traditional […]
 
 ---
 
-## 25. [Nvidia says it does not intend to reinstate Jensen Huang as CEO](https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo)
+## 25. [Nvidia’s rise, visualized](https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Starting Nvidia's quarterly earnings call on Tuesday, new board chair Harvey Jones said that when former CEO Jensen Huang resigned, "the Nvidia board unanimously accepted his resignation and does not intend to reinstate Jensen as CEO." Jones added, "We will not be addressing or taking questions on today's call regarding the circumstances of Jensen's resignation […]
+> If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to look at Nvidia, a company that just lost its visionary founder CEO due to a series of […]
 
 ---
 
-## 26. [The MacBook Neo is receiving a rare $50 discount ahead of Black Friday](https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale)
+## 26. [Sony’s impressive Bravia 8 II OLED hits a new low price ahead of Black Friday](https://www.theverge.com/gadgets/1036693/sony-bravia-8-ii-oled-black-friday-2026-deal-sale)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> If you’re looking for a new laptop or a gift for the student in your life, you can save $50 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently discounted to $649 (Amazon, Best Buy, Target), while the 512GB model with Touch ID is […]
+> Black Friday is a great time to save on a new OLED television for your winter movie nights. Though, it turns out that you can already get a great deal on the 65-inch Sony Bravia 8 II, one of our favorite OLED televisions. It’s currently discounted by $1,100 at various retailers, including Amazon, Best Buy, […]
 
 ---
 
-## 27. [Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing](https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang)
+## 27. [Instagram now lets you edit your stories after you post them](https://www.theverge.com/tech/1036941/instagram-now-lets-you-edit-your-stories-after-you-post-them)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call accompanying the release, board chair Harvey Jones kicked things off by saying the board "does not intend to reinstate Huang […]
+> Instagram's latest update will allow you to edit your Stories without losing your views, likes, or replies. You can now edit the text, music, stickers, and drawings for up to 15 minutes after sharing your Story, Instagram head Adam Mosseri has announced. Reverse engineer Alessandro Paluzzi first spotted Instagram working on this feature in April, […]
 
 ---
 
-## 28. [Nike’s new air sole technology can mix soft and firm cushioning](https://www.theverge.com/tech/1035911/nike-shoes-tuned-air-sole-printing-variable-cushioning)
+## 28. [The leaked Lenovo Legion Go Beam could be the affordable handheld we need](https://www.theverge.com/games/1036819/the-leaked-lenovo-legion-go-beam-could-be-the-affordable-handheld-we-need)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> In 2024, Nike announced its Air Max 1000 that were manufactured using a 3D-printing process resulting in a shoe that had a uniform silhouette but varying areas of support and flexibility throughout. The company is now doing something similar with its iconic air-filled soles using its new Tuned Air technology. While previously the level of […]
+> For a while there, it seemed like Lenovo had given up on selling handheld gaming PCs, hiking the price of its Legion Go 2 and Legion Go S far higher than other RAM-starved competitors. A decent one can easily cost $1,000 if not $2,000 now. But it looks like Lenovo might be about to announce […]
 
 ---
 
-## 29. [Not even Sam Altman is safe from AI deepfakes on Instagram](https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake)
+## 29. [Tech lawsuits defined 2026 — and lawmakers want more](https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent. In the AI-generated clip, Wang, Meta CEO Mark Zuckerberg, OpenAI CEO Sam Altman, and […]
+> With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from filing lawsuits. On Tuesday, members of a Senate Judiciary subcommittee hosted a hearing calling for the end of forced arbitration for online […]
 
 ---
 
-## 30. [Instagram is helping creators crack down on copycat videos](https://www.theverge.com/tech/1035943/instagram-creators-crack-down-copycat-videos)
+## 30. [The best early Black Friday deals you can already shop](https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Instagram is beginning to roll out a "content protection" feature that lets creators see and review copies of their videos posted to the platform. "For eligible creators who enroll, content protection is a tool that automatically looks out for visual matches of your original videos, alerts you when we find a match across Instagram and […]
+> The countdown to Black Friday is on, and the discounts are starting to appear. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn’t necessarily mean you’re getting a historically low price. […]
 
 ---

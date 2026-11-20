@@ -1,21 +1,66 @@
 # BAN TIN TUC TU DONG
 
-> Cap nhat lan cuoi: 19/11/2026 08:03 (gio Viet Nam)
+> Cap nhat lan cuoi: 20/11/2026 07:57 (gio Viet Nam)
 
 > Tong so bai: 30
 
 ---
 
-## 1. [Claude-maker Anthropic poised for more than $1.4tn stock market debut](https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss)
+## 1. [Tens of thousands of UK fridges secured from hackers in secret nationwide operation](https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
-- **Thoi gian dang:** 2026-11-18 23:44
+- **Thoi gian dang:** 2026-11-20 00:02
 
-> Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.
+> Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.
 
 ---
 
-## 2. [The seven Anthropic founders who are about to become multi-billionaires](https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss)
+## 2. [Anthropic becomes one of world's most valuable public companies in stock market debut](https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-11-19 23:33
+
+> Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.
+
+---
+
+## 3. [Dutch watchdog tells people not to buy AI smart glasses](https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-11-19 16:33
+
+> Tests of glasses showed some misread medicine instructions or pretended to have called an ambulance
+
+---
+
+## 4. [Anthropic raises $81bn in record-breaking stock market debut](https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-11-19 15:58
+
+> The company behind the Claude chatbot will become one of the most valuable firms in the world.
+
+---
+
+## 5. [UK joins in GTA 6 frenzy as game becomes available worldwide](https://www.bbc.co.uk/news/articles/c6z74ep2n17zo?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-11-19 12:26
+
+> The game, which was in development for 13 years, is set become one of the world's most popular entertainment products ever.
+
+---
+
+## 6. [Elon Musk says record $446m spending on US midterms was 'pretty foolish'](https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-11-19 02:59
+
+> The multi-billionaire also said he was "not Maga", distancing himself from the political movement linked to Trump.
+
+---
+
+## 7. [The seven Anthropic founders who are about to become multi-billionaires](https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-18 23:42
@@ -24,7 +69,16 @@
 
 ---
 
-## 3. [Grand Theft Auto 6 is a masterpiece, say critics](https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss)
+## 8. [Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?](https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-11-18 21:28
+
+> Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.
+
+---
+
+## 9. [Grand Theft Auto 6 is a masterpiece, say critics](https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-18 17:34
@@ -33,7 +87,7 @@
 
 ---
 
-## 4. [Hacks, AI or just overdue updates - why have there been so many outages?](https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss)
+## 10. [Hacks, AI or just overdue updates - why have there been so many outages?](https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-18 13:16
@@ -42,236 +96,182 @@
 
 ---
 
-## 5. [British hacker who stole $11m through text message scheme jailed for six years in US](https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-11-18 09:28
-
-> Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager.
-
----
-
-## 6. [Security flaw found in Java, world's third-largest programming language](https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-11-18 08:47
-
-> The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.
-
----
-
-## 7. [How important are Nvidia and Jensen Huang to the US economy?](https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-11-18 06:04
-
-> The former Nvidia chief executive has been at the centre of the artificial intelligence boom.
-
----
-
-## 8. [Watch: Marco Rubio says recent tech outages are 'completely unrelated' to one another](https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-11-18 05:10
-
-> Microsoft, major US banks, Apple and Air Traffic authorities have been hit over recent days by tech glitches.
-
----
-
-## 9. [Waymo pulls driverless taxis from all US freeways](https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-11-18 03:07
-
-> The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.
-
----
-
-## 10. [Nvidia says it won't reinstate Huang as it reports soaring sales](https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-11-18 01:18
-
-> The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.
-
----
-
-## 11. [Microsoft CEO Satya Nadella explains why he asked 60K employees to quit](https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/)
+## 11. [Apple may be developing its own AI agent that runs your Mac](https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-19 00:42
+- **Thoi gian dang:** 2026-11-20 00:56
 
-> Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.
+> The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.
 
 ---
 
-## 12. [Elon Musk says: ‘I’m not MAGA’](https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/)
+## 12. [Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO](https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-19 00:40
+- **Thoi gian dang:** 2026-11-20 00:43
 
-> During his appearance Wednesday at the Dealbook Summit conference, Elon Musk said that he wasn't sure what the term "MAGA" meant and also commented that he felt "pretty foolish" for having spent so much money during the U.S. midterms.
+> At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.
 
 ---
 
-## 13. [Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’](https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/)
+## 13. [Anthropic rival says companies can (mostly) skip the pricey models](https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-18 23:45
+- **Thoi gian dang:** 2026-11-20 00:26
 
-> The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.
+> On the day Anthropic went public, Fireworks AI’s co-founder made the case for open-source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.
 
 ---
 
-## 14. [Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’](https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/)
+## 14. [Elon Musk says SpaceX has a plan to eliminate cell phone dead zones](https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-18 23:25
+- **Thoi gian dang:** 2026-11-19 23:37
 
-> “I don’t think [Huang is] disloyal to the United States," Musk said.
+> SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.
 
 ---
 
-## 15. [Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit](https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/)
+## 15. [Want to see your live AI usage on your Mac’s icons? This clever new app lets you](https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-18 23:17
+- **Thoi gian dang:** 2026-11-19 22:33
 
-> Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.
+> IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun.
 
 ---
 
-## 16. [Satya Nadella predicts AI agents will reshuffle the economics of the web](https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/)
+## 16. [Meta’s new Muse Charm device may cost $300](https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-18 22:58
+- **Thoi gian dang:** 2026-11-19 21:58
 
-> Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.
+> Meta hasn't denied the reporting from The Information, saying only that it will "have more to share soon" about its upcoming AI wearable.
 
 ---
 
-## 17. [Anthropic reportedly prices IPO at $83 a share, above projected range](https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/)
+## 17. [These tech outages are giving Y2K, AI agent style](https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-18 22:11
+- **Thoi gian dang:** 2026-11-19 21:42
 
-> The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.
+> Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.
 
 ---
 
-## 18. [Palmer Luckey doesn’t deny that he’s a prepper](https://techcrunch.com/2026/11/18/palmer-luckey-doesnt-deny-that-hes-a-prepper/)
+## 18. [Uber tests rides for kids as young as 10, with extra pay for drivers](https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-18 22:04
+- **Thoi gian dang:** 2026-11-19 21:33
 
-> The Anduril founder said Wednesday that Americans should always have three days of food, water, and medicine — just in case.
+> Uber is testing the new program in three U.S. cities.
 
 ---
 
-## 19. [Nvidia created a weird bit of intrigue by not filing a routine SEC report](https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/)
+## 19. [The unfolding Jensen Huang scandal: a timeline](https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-18 21:57
+- **Thoi gian dang:** 2026-11-19 20:18
 
-> One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.
+> Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.
 
 ---
 
-## 20. [Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’](https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/)
+## 20. [Anthropic’s IPO could deliver $156B to charity](https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-18 21:34
+- **Thoi gian dang:** 2026-11-19 19:10
 
-> The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.
+> At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.
 
 ---
 
-## 21. [The nation’s largest school districts consider ditching Google Search](https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google)
+## 21. [Apple is hiring engineers to build its own AI agent](https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powered features without also disabling Search. Chris Phillips, Google's vice […]
+> Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. […]
 
 ---
 
-## 22. [Democrats skip a vote on adding Brendan Carr’s adviser to the FCC](https://www.theverge.com/policy/1037134/democrats-boycott-fcc-nomination-vote-danielle-thumann-severs)
+## 22. [A brief history of Nvidia’s recent stock fluctuations](https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Senate commerce committee Chair Ted Cruz (R-TX) began a meeting Wednesday meant to confirm President Donald Trump's nominee to the Federal Communications Commission with a lopsided dais. To his right sat all 14 Republican members of the panel, including Senate Majority Leader John Thune (R-SD). To his left were about a dozen empty chairs - […]
+> "We've got this," Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings […]
 
 ---
 
-## 23. [Absolute Batman can save DC Studios](https://www.theverge.com/entertainment/1035722/absolute-batman-can-save-dc-studios)
+## 23. [Meta now sells 3D movies on Quest VR headsets](https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> With James Gunn and Peter Safran out as the co-heads of DC Studios following Skydance's acquisition of Warner Bros. Discovery, it's unclear what will become of the cinematic universe that was building around movies like last year's Superman. Though Gunn's Man of Tomorrow feature might still come out, it seems like his larger vision for […]
+> Meta now offers more than 150 3D movies that you can buy or rent to watch in VR on its Quest 3 and 3S headsets, the company announced today. The movies are available in Meta's TV app and include titles like Avatar, Spider-Man: Far From Home, Jurassic World Rebirth, Wicked: For Good, and a Billie […]
 
 ---
 
-## 24. [Trump’s latest land grab is an AI hub in the Philippines](https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica)
+## 24. [Meta’s Muse Charm might cost $300](https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags. A band played "YMCA," a staple at Trump rallies, as more girls in traditional […]
+> Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm "in time for the holidays in December," but […]
 
 ---
 
-## 25. [Nvidia’s rise, visualized](https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang)
+## 25. [Google is putting AI chats right on the homepage](https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to look at Nvidia, a company that just lost its visionary founder CEO due to a series of […]
+> Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the […]
 
 ---
 
-## 26. [Sony’s impressive Bravia 8 II OLED hits a new low price ahead of Black Friday](https://www.theverge.com/gadgets/1036693/sony-bravia-8-ii-oled-black-friday-2026-deal-sale)
+## 26. [FCC greenlights rule allowing prisons to jam cellphone signals](https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Black Friday is a great time to save on a new OLED television for your winter movie nights. Though, it turns out that you can already get a great deal on the 65-inch Sony Bravia 8 II, one of our favorite OLED televisions. It’s currently discounted by $1,100 at various retailers, including Amazon, Best Buy, […]
+> The Federal Communications Commission voted unanimously to allow state and local prisons to jam cellphones. In an announcement on Thursday, the FCC argues the rule will help combat an "influx of contraband cellphones" used to carry out crimes from prison. Jammers are generally banned under Section 333 of the Communications Act of 1934, though they're […]
 
 ---
 
-## 27. [Instagram now lets you edit your stories after you post them](https://www.theverge.com/tech/1036941/instagram-now-lets-you-edit-your-stories-after-you-post-them)
+## 27. [Sony’s WH-1000XM5 are cheaper than ever for Black Friday](https://www.theverge.com/gadgets/1037790/sony-wh-1000xm5-black-friday-deal-sale)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Instagram's latest update will allow you to edit your Stories without losing your views, likes, or replies. You can now edit the text, music, stickers, and drawings for up to 15 minutes after sharing your Story, Instagram head Adam Mosseri has announced. Reverse engineer Alessandro Paluzzi first spotted Instagram working on this feature in April, […]
+> Back in my day, the only “Doorbuster” sales were at physical retail stores. But now, you can get ultra-low prices before Black Friday whether you want to shop in-store or online. One that stands out is the previous-generation Sony WH-1000XM5 noise-canceling headphones, which are marked down to their lowest price ever, just $169.99 at Best […]
 
 ---
 
-## 28. [The leaked Lenovo Legion Go Beam could be the affordable handheld we need](https://www.theverge.com/games/1036819/the-leaked-lenovo-legion-go-beam-could-be-the-affordable-handheld-we-need)
+## 28. [You can now buy a Steam Machine without getting on a waitlist](https://www.theverge.com/games/1038010/valve-steam-machine-waitlist-supply)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> For a while there, it seemed like Lenovo had given up on selling handheld gaming PCs, hiking the price of its Legion Go 2 and Legion Go S far higher than other RAM-starved competitors. A decent one can easily cost $1,000 if not $2,000 now. But it looks like Lenovo might be about to announce […]
+> Valve announced some updates about Steam Machine availability today, including good news if you want to buy one right now and potential bad news about future supply due to RAMaggedon. The good news: You can now purchase a 512GB Steam Machine without getting on a waitlist. Initially, interested buyers had to get on Valve's waitlist […]
 
 ---
 
-## 29. [Tech lawsuits defined 2026 — and lawmakers want more](https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act)
+## 29. [Some creators are skeptical of Instagram’s new affiliate program](https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from filing lawsuits. On Tuesday, members of a Senate Judiciary subcommittee hosted a hearing calling for the end of forced arbitration for online […]
+> For years, influencers have come up with workarounds on social media to figure out how to share affiliate links with followers. A new integration between Instagram and Amazon was announced earlier this month as a way to make it easier for influencers to make money from affiliate links - but some content creators are suspicious […]
 
 ---
 
-## 30. [The best early Black Friday deals you can already shop](https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026)
+## 30. [Sonos is taking up to 30 percent off speakers and soundbars right now](https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> The countdown to Black Friday is on, and the discounts are starting to appear. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn’t necessarily mean you’re getting a historically low price. […]
+> Sonos speakers and soundbars aren’t exactly cheap, but thankfully the company’s Black Friday sale has already begun, making everything a little easier to afford through November 30th. Most notably, you can pick up the Arc Ultra soundbar for a new low of $849 ($250 off) from Sonos, Amazon, and Best Buy, or the newfangled Sonos […]
 
 ---

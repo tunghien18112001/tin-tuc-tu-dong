@@ -1,6 +1,6 @@
 # BAN TIN TUC TU DONG
 
-> Cap nhat lan cuoi: 21/11/2026 08:00 (gio Viet Nam)
+> Cap nhat lan cuoi: 22/11/2026 13:18 (gio Viet Nam)
 
 > Tong so bai: 30
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 2. [In a year of AI solving maths problems, Anthropic may have just solved the biggest](https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss)
+## 2. [In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest](https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-20 23:08
@@ -96,7 +96,70 @@
 
 ---
 
-## 11. [Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now](https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/)
+## 11. [Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance](https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/)
+
+- **Nguon:** TechCrunch
+- **Thoi gian dang:** 2026-11-21 21:37
+
+> Signal is limiting users' ability to take screenshots in both its Android and iOS apps.
+
+---
+
+## 12. [A tale of two Nvidias](https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/)
+
+- **Nguon:** TechCrunch
+- **Thoi gian dang:** 2026-11-21 21:07
+
+> We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.
+
+---
+
+## 13. [Trump says reported FBI database hack is ‘not good’](https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/)
+
+- **Nguon:** TechCrunch
+- **Thoi gian dang:** 2026-11-21 18:44
+
+> The FBI is reportedly investigating a hack of the National Crime Information Center.
+
+---
+
+## 14. [Here are the top AI agents that can live in your text messages](https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/)
+
+- **Nguon:** TechCrunch
+- **Thoi gian dang:** 2026-11-21 17:00
+
+> We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.
+
+---
+
+## 15. [Is selling an AI version of your face to this microdrama startup the future of Hollywood?](https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/)
+
+- **Nguon:** TechCrunch
+- **Thoi gian dang:** 2026-11-21 16:00
+
+> An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.
+
+---
+
+## 16. [Alaska, your next governor is a Wikipedia nerd](https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/)
+
+- **Nguon:** TechCrunch
+- **Thoi gian dang:** 2026-11-21 15:18
+
+> Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits.
+
+---
+
+## 17. [Startup sues Apple in India over tap-to-share contacts feature](https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/)
+
+- **Nguon:** TechCrunch
+- **Thoi gian dang:** 2026-11-21 04:00
+
+> A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.
+
+---
+
+## 18. [Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now](https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/)
 
 - **Nguon:** TechCrunch
 - **Thoi gian dang:** 2026-11-20 20:58
@@ -105,7 +168,7 @@
 
 ---
 
-## 12. [Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.](https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/)
+## 19. [Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.](https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/)
 
 - **Nguon:** TechCrunch
 - **Thoi gian dang:** 2026-11-20 19:53
@@ -114,7 +177,7 @@
 
 ---
 
-## 13. [AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too](https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/)
+## 20. [AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too](https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/)
 
 - **Nguon:** TechCrunch
 - **Thoi gian dang:** 2026-11-20 19:32
@@ -123,155 +186,92 @@
 
 ---
 
-## 14. [Super-hot rock geothermal could end data center energy woes](https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/)
-
-- **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-20 18:34
-
-> New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere.
-
----
-
-## 15. [Chips can survive the space environment — can their financing?](https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/)
-
-- **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-20 17:40
-
-> Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?
-
----
-
-## 16. [Bending Spoons buys Mailchimp for $3.68B](https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/)
-
-- **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-20 16:16
-
-> Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.
-
----
-
-## 17. [A transcription firm used by police, prosecutors, and tech giants exposed customer data online](https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/)
-
-- **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-20 15:46
-
-> Exclusive: A simple security lapse exposed transcriptions of police interviews and bodycam footage on a cloud server without a password.
-
----
-
-## 18. [Six AI-powered gadgets that could make your home office smarter](https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/)
-
-- **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-20 14:00
-
-> From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.
-
----
-
-## 19. [Behind Jensen Huang’s exit, questions about a management style reportedly built on fear](https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/)
-
-- **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-20 13:25
-
-> Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang.
-
----
-
-## 20. [California AG subpoenas Nvidia over worries about Huang’s ties with China](https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/)
-
-- **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-20 13:21
-
-> "The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors," California AG Rob Bonta said.
-
----
-
-## 21. [YouTube is reportedly preparing to settle social media addiction claims for $3 billion](https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement)
+## 21. [Amazon is complaining about NYC Council on shipping labels, too](https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its "addictive design" harmed kids, according to Bloomberg. Sources tell the publication that YouTube reached the agreement "in principle," and that the deal would also include new safeguards for teens. The settlement would allow Google to avoid a wave […]
+> Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to any Amazon order. The Delivery Protection Act would effectively ban the sort of third-party arrangements Amazon currently […]
 
 ---
 
-## 22. [Rockstar says GTA VI made $3.79 billion in its first day](https://www.theverge.com/games/1036279/gta-vi-sales)
+## 22. [The UN fails to agree on rules regulating ‘killer robots’](https://www.theverge.com/tech/1039554/un-regulations-killer-robots)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> GTA VI earned $3.79 billion in its first day of sales, which set "a new record for entertainment across any medium," according to an announcement from Rockstar Games. The game also sold 32.5 million preorder copies. "It is with immense gratitude that we enter a new chapter of Rockstar Games with the release of Grand […]
+> One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called "killer robots." Eventually, representatives left the meetings agreeing to "start discussing options" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the […]
 
 ---
 
-## 23. [Eufy’s Omni C28 is 53 percent off ahead of Black Friday](https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale)
+## 23. [The FBI and USDA were reportedly hacked](https://www.theverge.com/tech/1039543/fbi-usda-hacked)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Hosting Thanksgiving can be fun, but cleaning up afterwards? Not so much. Eufy’s Omni C28 robot vacuum / mop hybrid can help, and thanks to an early Black Friday deal, you can pick it up at a new low price of $379.99 ($420 off its original price) at Amazon, Best Buy, or directly from Eufy […]
+> Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the National Crime Information Center (NCIC), which federal, state, and local law […]
 
 ---
 
-## 24. [Trump threatens ‘tremendous tax’ for moving AI data centers outside the US](https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax)
+## 24. [John Roberts, the voice of Linda Belcher, is just happy to finish a thing](https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> President Donald Trump promised to put a "tremendous tax" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. "We're not going to allow our companies to build data centers outside of our country," Trump said at a […]
+> You probably know John Roberts best as the voice of Linda Belcher on Bob's Burgers. The show just wrapped up its 16th season and shows no signs of slowing down anytime soon. The show remains a reliable source of laughs, top-notch puns, and frankly wholesome fun. Comedy is just part of Roberts' life, however. In […]
 
 ---
 
-## 25. [Multiplying your Switch 2’s storage costs less than usual right now](https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale)
+## 25. [Amazon’s first digital photo frame is up to 50 percent off for Black Friday](https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Expanding your Nintendo Switch 2’s 256GB of built-in storage with a microSD card is pricier than it was with Nintendo’s original console. That’s because microSD Express cards, while physically identical to ones you might have lying around, have faster read and write speeds. Thankfully, Samsung’s 256GB model has dropped to $44.99 at Amazon ahead of […]
+> Amazon only announced its first digital photo frame less than a month ago, but it’s already getting a sizable discount for Black Friday. You can currently grab the Alexa Photo Frame at Amazon and Best Buy starting at $114 ($115 off), making it a great holiday gift for anyone who loves displaying family photos. If […]
 
 ---
 
-## 26. [Google says it’s going to shut off Google Assistant on smart speakers next year](https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down)
+## 26. [Can Anthropic afford to put safety first?](https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Google is announcing some significant changes to its smart home software. Starting next year, the company will shut down the Nest app in favor of the Google Home app and retire Google Assistant on its smart home devices. The Nest app shutdown takes place on January 25th, 2027, meaning you'll have to manage your Nest […]
+> Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to […]
 
 ---
 
-## 27. [Here are the Apple deals actually worth picking up ahead of Black Friday](https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026)
+## 27. [Our go-to earbuds for taking calls have fallen to their lowest price to date](https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> A new pair of AirPods or the latest Apple Watch can make a great holiday gift, but they can also take a pretty big dent out of your budget. That’s especially true this year, as rising hardware prices have made MacBooks and other Apple devices even more expensive. Fortunately, Black Friday offers a chance to […]
+> If you’re looking for a new pair of earbuds, the Soundcore Liberty 5 Pro are on sale for $129.99 at Amazon, Best Buy, and Walmart right now. That’s the lowest price we’ve seen for Anker’s excellent wireless earbuds, which normally retail for $169.99 and come in four colors (black, white, blue, and pink) all of […]
 
 ---
 
-## 28. [Teenage Engineering’s first CD player puts the spinning disc on display](https://www.theverge.com/tech/1038692/teenage-engineering-ep-bc-1-cd-compact-disc-player-broadcast-series-bluetooth)
+## 28. [Chess.com’s next move is a new hub for classic games, from mahjong to sudoku](https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Teenage Engineering announced what it describes as "a modern take on a classic CD player" with its new EP/BC-1 featuring a slab-like design that leaves the spinning disc exposed instead of hiding it under a lid or inside a slide-out tray. The company says the EP/BC-1 is the first entry in its new broadcast series […]
+> Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of Chess's new Classic Games platform, which is launching […]
 
 ---
 
-## 29. [Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude](https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem)
+## 29. [The Xiaomi 18 Pro proves two screens aren’t better than one](https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval […]
+> Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find out if a screen on the back of a phone is any more useful now than it was […]
 
 ---
 
-## 30. [Boys Noize turns to the club (and an obscure Italian synth) for inspiration on 7LLVSION](https://www.theverge.com/entertainment/1038444/boys-noize-7llvsion-interview)
+## 30. [The game of the year is finally here](https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> If you're wondering how Alex Ridha's (aka Boys Noize) collaboration with Nine Inch Nails influenced his new record 7LLVSION, the answer is simple: It didn't. That's not to say Ridha didn't learn anything from the virtuosic production team of Trent Reznor and Atticus Ross, but most of the songs on 7LLVSION had been knocking around […]
+> Hi, friends! Welcome to Installer No. 153, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for tearing yourself away from GTA to be here, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about nuclear radiation […]
 
 ---

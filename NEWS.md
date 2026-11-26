@@ -1,12 +1,39 @@
 # BAN TIN TUC TU DONG
 
-> Cap nhat lan cuoi: 25/11/2026 15:04 (gio Viet Nam)
+> Cap nhat lan cuoi: 26/11/2026 14:55 (gio Viet Nam)
 
 > Tong so bai: 30
 
 ---
 
-## 1. [US attorney general dodges questions about Nvidia investigation](https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss)
+## 1. [Huawei found guilty of stealing US trade secrets but acquitted of racketeering](https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-11-25 10:52
+
+> The verdict follows a months-long trial in New York.
+
+---
+
+## 2. [EA adds AI-generated John Motson to FC 27 video game](https://www.bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-11-25 10:11
+
+> The AI-generated Motson will appear in the game on 26 November, with the consent of his son and wife.
+
+---
+
+## 3. [Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang](https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-11-25 10:03
+
+> The BBC's technology and AI editor on how Nvidia's boss made himself impossible to fire.
+
+---
+
+## 4. [US attorney general dodges questions about Nvidia investigation](https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-25 03:44
@@ -15,16 +42,7 @@
 
 ---
 
-## 2. [Huawei found guilty of stealing US trade secrets but acquitted of racketeering](https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-11-25 02:59
-
-> The verdict follows a months-long trial in New York.
-
----
-
-## 3. [Why tiny cars are taking off across Europe](https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss)
+## 5. [Why tiny cars are taking off across Europe](https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-25 00:34
@@ -33,7 +51,7 @@
 
 ---
 
-## 4. [Faisal Islam: Fears over the AI boom haven't gone away](https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss)
+## 6. [Faisal Islam: Fears over the AI boom haven't gone away](https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-24 18:21
@@ -42,7 +60,7 @@
 
 ---
 
-## 5. [Helpful but awkward: My week with Meta's Muse ahead of its UK launch](https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss)
+## 7. [Helpful but awkward: My week with Meta's Muse ahead of its UK launch](https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-24 09:33
@@ -51,7 +69,7 @@
 
 ---
 
-## 6. [US to blacklist Asian AI firm Megaspeed after Nvidia scandal](https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss)
+## 8. [US to blacklist Asian AI firm Megaspeed after Nvidia scandal](https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-23 23:16
@@ -60,7 +78,7 @@
 
 ---
 
-## 7. [Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns](https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss)
+## 9. [Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns](https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-23 21:23
@@ -69,7 +87,7 @@
 
 ---
 
-## 8. [How important are Nvidia and Jensen Huang to the US economy?](https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss)
+## 10. [How important are Nvidia and Jensen Huang to the US economy?](https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-23 16:12
@@ -78,200 +96,182 @@
 
 ---
 
-## 9. [The rise and fall and rise again of Jensen Huang](https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-11-23 15:49
-
-> Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.
-
----
-
-## 10. [GTA 6 hacker released on licence with warning 'don't let this happen again'](https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-11-23 14:08
-
-> 21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.
-
----
-
-## 11. [Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion](https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/)
+## 11. [S&P considers Nvidia credit downgrade over governance and ‘key man’ risks](https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-25 00:12
+- **Thoi gian dang:** 2026-11-25 22:44
 
-> Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to "historic" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands.
+> The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.
 
 ---
 
-## 12. [Trump reportedly says pardoning Jensen Huang is ‘an option’](https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/)
+## 12. [FCC approves SpaceX plan to put AI data centers in space](https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-25 00:10
+- **Thoi gian dang:** 2026-11-25 20:56
 
-> Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accused of illegally diverting Nvidia chips to China.
+> The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.
 
 ---
 
-## 13. [Jensen Huang still thinks a succession plan creates unnecessary hierarchy](https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/)
+## 13. [OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work](https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-24 22:27
+- **Thoi gian dang:** 2026-11-25 20:03
 
-> It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.
+> OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.
 
 ---
 
-## 14. [In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy](https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/)
+## 14. [Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it](https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-24 21:48
+- **Thoi gian dang:** 2026-11-25 19:54
 
-> The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.
+> Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.
 
 ---
 
-## 15. [Even the best AI agents struggle with everyday life](https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/)
+## 15. [The canceled Tesla Cybertruck is the fastest-selling used truck in America](https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-24 21:33
+- **Thoi gian dang:** 2026-11-25 19:54
 
-> As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.
+> The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall.
 
 ---
 
-## 16. [Walmart teams up with Meta to bring Black Friday deals to AI agent Muse](https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/)
+## 16. [Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’](https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-24 21:32
+- **Thoi gian dang:** 2026-11-25 19:44
 
-> Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.
+> Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.
 
 ---
 
-## 17. [Maple raises $5.3M to build AI products that protect your data, even from itself](https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/)
+## 17. [1Password said hackers broke into its internal systems, but customer passwords are safe](https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-24 21:19
+- **Thoi gian dang:** 2026-11-25 18:49
 
-> The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.
+> The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.
 
 ---
 
-## 18. [Dozens of oil and shipping tankers hacked in recent weeks, per report](https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/)
+## 18. [Want to buy your kid an AI toy this Christmas? Not in New York](https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-24 21:09
+- **Thoi gian dang:** 2026-11-25 18:11
 
-> Iran is the chief suspect behind the dozens of cyberattacks targeting oil and chemical shipping vessels.
+> New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.
 
 ---
 
-## 19. [Anthropic shares fall below IPO price, a worrying sign for AI startups](https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/)
+## 19. [DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers](https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-24 18:30
+- **Thoi gian dang:** 2026-11-25 17:36
 
-> Anthropic’s post-IPO slump could put pressure on AI startup valuations.
+> U.S. prosecutors accused the former executive of defrauding victims of ransomware by paying the hackers, charging victims more, and pocketing the difference.
 
 ---
 
-## 20. [UK warns AI-driven cyberattacks are exposing years of weak security](https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/)
+## 20. [Character.AI’s plan to auction off users’ private chats challenged by state AGs](https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/)
 
 - **Nguon:** TechCrunch
-- **Thoi gian dang:** 2026-11-24 18:02
+- **Thoi gian dang:** 2026-11-25 17:35
 
-> The British cyber agency says that "building strong foundations has never mattered more" as AI hacking tools rely on exploiting simple security flaws.
+> The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.
 
 ---
 
-## 21. [US financial crimes bureau discloses ‘cybersecurity incident’](https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident)
+## 21. [Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too](https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a "cybersecurity incident." The bureau, which is part of the Treasury Department, said it's looking into an "incident that resulted in unauthorized access to a limited subset of its systems." It hasn't offered any information about the full scope or source of the […]
+> A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Familiar Faces support to the $35 Onn Outdoor Camera Plug-In and $77 Onn Floodlight Camera Hardwired. However, a Google Home Premium subscription is still required […]
 
 ---
 
-## 22. [The Verge’s 2026 gift guide for dads](https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026)
+## 22. [Amazon loses its latest attempt to get out of handling more recall notices](https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Gone are the days when you could just buy your father a random tie or some leather-clad alcohol vessel or a shaving kit. Dads want - nay, deserve - something memorable. Luckily for you, it's not that hard to find something special that he'll approve of, and we're here to guide you. We've curated this […]
+> Amazon is on the hook to recall more than 400,000 hazardous products after losing its legal battle against the US Consumer Product Safety Commission (CPSC). The US District Court for the District of Maryland ruled in favor of the CPSC, which argued that Amazon is a distributor of goods, not a logistics provider, making it […]
 
 ---
 
-## 23. [Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa](https://www.theverge.com/science/1041819/us-army-detonation-lead-explosives-iowa)
+## 23. [Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future](https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> The US Army is moving ahead with plans to detonate the nation's stockpile of lead azide at an ammunition plant in Middletown, Iowa, at approximately 9:00AM CST on Wednesday. The Verge reached out to experts on what to expect, and will keep this post updated. What material is the Army planning to detonate? There are […]
+> Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come […]
 
 ---
 
-## 24. [Huawei found guilty of stealing trade secrets](https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial)
+## 24. [The Verge’s 2026 holiday gift guide for travelers](https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> A jury has found Huawei guilty of stealing US trade secrets, as reported earlier by NBC News and Bloomberg. The verdict, handed down in a federal court in New York, concludes a years-long legal battle that accused the Chinese telecom giant of stealing source code and proprietary technology from several companies, including T-Mobile, Cisco, and […]
+> Everyone has that traveler in their life. That person who feels more at home on a 14-hour train ride than a quiet Sunday on the couch. They speak multiple languages, have a gut like a goat, and make friends wherever they go. Whether they're your kindred spirit or the person you live vicariously through, one […]
 
 ---
 
-## 25. [GTA VI PC recompilation project shut down by Take-Two](https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two)
+## 25. [WhatsApp’s new scheduled messages let you choose the right time to send](https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Game modding communities are racing to get Grand Theft Auto VI running on PC, but one big effort has been taken down by Take-Two today. Leonida, a fan project by 15-year-old "NotRexed," has vanished after a DMCA takedown notice from GTA VI publisher Take-Two. Leonida was designed to translate a leaked GTA VI Xbox build […]
+> WhatsApp's 3 billion users are getting an option that Meta says is one of the most requested features, with the ability to schedule messages in advance for both private conversations and group chats. Most messaging platforms have had this for a very long time, but now it's on WhatsApp too. If you think of a […]
 
 ---
 
-## 26. [The Verge’s 2026 holiday gift guide for moms](https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026)
+## 26. [EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa](https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Given everything moms do for us, it feels good to give back during the holidays. But where to start? How do you come up with a physical representation of how you feel about such a key and influential figure in your life? The possibilities seem as endless as they are daunting, but fear not, we've […]
+> Saying it was necessary to prevent the possible spontaneous explosion of a stockpile of material used in igniters and blasting caps, the US Army conducted a controlled detonation of over 9,700 pounds of lead azide today at the Iowa Army Ammunition Plant (IAAAP) in Middletown, Iowa. Videos of the detonation showed plumes of smoke several […]
 
 ---
 
-## 27. [TikTok was down](https://www.theverge.com/tech/1041618/tiktok-down-outage)
+## 27. [1Password breach leaked customer names and emails, but not passwords](https://www.theverge.com/tech/1042409/1password-data-breach-leak)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Earlier on Tuesday, TikTok experienced some issues, with videos, search results, favorites, and other features not loading as they usually do, following a slew of other outages over the past couple of weeks. Videos sometimes wouldn't load in the For You feed on my iPhone, and search results occasionally didn't show up as expected in […]
+> 1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but could put users at risk of phishing attempts, according to a post disclosing the incident. It's unclear how many users are affected. The password manager […]
 
 ---
 
-## 28. [Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired](https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology)
+## 28. [The Fairphone 6 Plus is modular, repairable, and $100 off right now](https://www.theverge.com/gadgets/1041460/fairphone-6-plus-repairable-phone-black-friday-2026-deal-sale)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbasket's Marisa Kabas. During the meeting, Huang […]
+> Unlike most smartphones, the Fairphone 6 Plus is designed for home repair, with easily replaceable parts that could help extend its lifespan well into the future. That makes its midrange price point easier to justify, especially now that it’s dropped to a new low of $552.49 (about $98 off) at Amazon as part of the […]
 
 ---
 
-## 29. [The clock is running out for America’s most contentious spying law](https://www.theverge.com/policy/1041568/fisa-ndaa-blue-wave)
+## 29. [The loneliest peptide party in New York](https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Weeks before the end of the legislative session, some members of Congress are scrambling to reauthorize a controversial warrantless wiretapping authority, possibly by attaching it to a must-pass military spending bill. Sen. Mike Rounds (R-SD) told Politico that Section 702 of the Foreign Intelligence Surveillance Act (FISA) could be attached to the National Defense Authorization […]
+> This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. On a rainy fall evening, an experimental art venue in Chelsea Market had a small line out the door. There […]
 
 ---
 
-## 30. [Amazon is knocking almost $50 off six months of Apple TV](https://www.theverge.com/gadgets/1040046/apple-tv-subscription-streaming-sale-deal-black-friday)
+## 30. [FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space](https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Streaming deals aren’t as plentiful as they used to be, but they’re still around if you know where to look. One that caught our eye is an offer for Apple TV for those with an Amazon account in the US. Apple’s streaming service usually costs $14.99 per month, but following this page will let you […]
+> In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's "Starmind" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency […]
 
 ---

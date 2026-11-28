@@ -1,12 +1,21 @@
 # BAN TIN TUC TU DONG
 
-> Cap nhat lan cuoi: 27/11/2026 14:55 (gio Viet Nam)
+> Cap nhat lan cuoi: 28/11/2026 14:26 (gio Viet Nam)
 
 > Tong so bai: 30
 
 ---
 
-## 1. [Why is there a shortage of 'wizard' elevator mechanics?](https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss)
+## 1. [How gamers are using AI and leaked files to clone Grand Theft Auto 6](https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss)
+
+- **Nguon:** BBC News
+- **Thoi gian dang:** 2026-11-28 01:30
+
+> With an official PC version potentially still months away, fans are getting impatient.
+
+---
+
+## 2. [Why is there a shortage of 'wizard' elevator mechanics?](https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-27 00:02
@@ -15,7 +24,7 @@
 
 ---
 
-## 2. [Asia made a big AI bet on Nvidia. What happens now?](https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss)
+## 3. [Asia made a big AI bet on Nvidia. What happens now?](https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-26 23:08
@@ -24,7 +33,7 @@
 
 ---
 
-## 3. [Musk's plan to send a million SpaceX data satellites into space approved](https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss)
+## 4. [Musk's plan to send a million SpaceX data satellites into space approved](https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-26 09:27
@@ -33,7 +42,7 @@
 
 ---
 
-## 4. [Huawei found guilty of stealing US trade secrets but acquitted of racketeering](https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss)
+## 5. [Huawei found guilty of stealing US trade secrets but acquitted of racketeering](https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-25 10:52
@@ -42,7 +51,7 @@
 
 ---
 
-## 5. [EA adds AI-generated John Motson to FC 27 video game](https://www.bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss)
+## 6. [EA adds AI-generated John Motson to FC 27 video game](https://www.bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-25 10:11
@@ -51,7 +60,7 @@
 
 ---
 
-## 6. [Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang](https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss)
+## 7. [Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang](https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-25 10:03
@@ -60,7 +69,7 @@
 
 ---
 
-## 7. [US attorney general dodges questions about Nvidia investigation](https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss)
+## 8. [US attorney general dodges questions about Nvidia investigation](https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-25 03:44
@@ -69,7 +78,7 @@
 
 ---
 
-## 8. [Why tiny cars are taking off across Europe](https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss)
+## 9. [Why tiny cars are taking off across Europe](https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-25 00:34
@@ -78,21 +87,12 @@
 
 ---
 
-## 9. [Faisal Islam: Fears over the AI boom haven't gone away](https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss)
+## 10. [Faisal Islam: Fears over the AI boom haven't gone away](https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss)
 
 - **Nguon:** BBC News
 - **Thoi gian dang:** 2026-11-24 18:21
 
 > There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it
-
----
-
-## 10. [Helpful but awkward: My week with Meta's Muse ahead of its UK launch](https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss)
-
-- **Nguon:** BBC News
-- **Thoi gian dang:** 2026-11-24 09:33
-
-> Meta wants Muse to do for AI what WhatsApp did for messaging - here's what the BBC's technology editor found when she used it.
 
 ---
 
@@ -186,92 +186,92 @@
 
 ---
 
-## 21. [Netflix’s coziest show has made a very quiet return](https://www.theverge.com/entertainment/1043489/midnight-diner-season3)
+## 21. [The M5 MacBook Air just got its biggest discount since Apple raised the price](https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> The bigger Netflix gets, the easier it is to miss stuff. This is true of all digital platforms, of course, but it's especially true of Netflix of late, as the streaming service's lineup now also includes a growing library of reality shows, live-programming, and even games. It makes it easy for some of the best […]
+> If you’ve been holding off on buying a new MacBook Air since Apple raised prices by $200 in June, you’re in luck. The 13-inch M5 MacBook Air is on sale at Amazon and Best Buy with 16GB of RAM and 512GB of storage starting at $999 ($300 off) for Black Friday, which is the lowest […]
 
 ---
 
-## 22. [The Garmin Forerunner 265S is down to $300, its best price of the year](https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday)
+## 22. [The absolute best Black Friday deals you can still get](https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> The Forerunner 265S may not be the newest or flashiest Garmin, but it’s one that I’ve always loved most in testing. For runners with smaller wrists, it fits nicely. The battery life is pretty good thanks in part to its OLED touchscreen. When I reviewed it a few years ago, I called it the Goldilocks […]
+> Black Friday is nearly over, but many of this year’s best deals are still available. You can still find some of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, robot vacuums, and so much more. We can’t guarantee a deal you’ve had your eye on will last through Cyber […]
 
 ---
 
-## 23. [The MacBook Neo is receiving a rare $100 discount for Black Friday](https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale)
+## 23. [We found 60-odd Black Friday deals we love for $100 or less](https://www.theverge.com/gadgets/1043445/black-friday-best-cheap-tech-deals-under-100-2026)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> If you’re looking for a new laptop or a gift for the student in your life, you can save $100 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently discounted to $599.99 at Amazon and Costco, while the 512GB model with Touch ID is […]
+> Between holiday travel, gifts, and the rising cost of just about everything, expenses can quickly add up during this time of year. Thankfully, you don’t have to dip too far into your savings to take advantage of some of the better Black Friday deals we’ve seen. Below, we’ve rounded up a range of great stuff […]
 
 ---
 
-## 24. [Android app developers will soon have to share their address publicly](https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu)
+## 24. [This purple electric Chinese minivan can go up to 559 miles on a charge](https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly. The policy change is intended to meet European Union regulations under the Digital Services Act, but Google says contact details will be made public worldwide. […]
+> Electric minivans could be the ultimate in utility, with room for passengers, gear, and huge batteries. While VW's ID Buzz only gave us 200 miles of real-world driving on a charge in 2023, China's BYD has just announced a flagship purple peoplemover that can go an estimated 559 miles (900 km) on electricity. It's called […]
 
 ---
 
-## 25. [The best Black Friday deals we’ve already found](https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026)
+## 25. [The best Black Friday deals you can still get on AirPods, Macs, and other Apple gear](https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn’t officially until tomorrow, November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn’t necessarily mean you’re getting a historically low price. […]
+> Black Friday is entering the evening, which means one of the best times of the year to save some cash on a new pair of AirPods or the latest Apple Watch is coming to a close. After all, the holiday savings can help offset the unfortunate price hikes from earlier this year, when Apple raised […]
 
 ---
 
-## 26. [Federal judge blocks the FCC from reviewing ABC’s licenses early](https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block)
+## 26. [The best robot vacuums we’ve tested are up to 60 percent off for Black Friday](https://www.theverge.com/gadgets/1044487/best-black-friday-robot-vacuum-mop-deals-2026)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> US District Judge Loren AliKhan has blocked the Federal Communications Commission from conducting an early review of ABC's broadcast licenses in a preliminary injunction, and rejected its efforts to dismiss ABC's First Amendment lawsuit. ABC has accused the FCC of violating its free speech rights and claims the agency "waged a retaliatory campaign" against the […]
+> Black Friday is here, and if you want a little help keeping your floors clean this holiday season, now is a great time to pick up a robot vacuum. Some of the best models we’ve tested over the last year or two are on sale for up to 60 percent off, whether you’re after a […]
 
 ---
 
-## 27. [Disney Plus, Hulu, and HBO Max are all over 50 percent off for Black Friday](https://www.theverge.com/gadgets/1041762/best-black-friday-streaming-deals-2026)
+## 27. [Sony’s 1000XM4C headphones are a Black Friday bargain at $198](https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Black Friday isn’t just a good time to save on a new TV but also a chance to spend less on what you watch on it. The shopping holiday often brings steep streaming discounts, and this year is no exception, with some streamers offering more than 50 percent off. HBO Max, Apple TV, and Hulu […]
+> Instead of purely looking forward with its headphone designs, Sony went back to its popular WH-1000XM4 design and made some improvements to make it even better. The 2026 version, called the WH-1000XM4C, sounds nearly as good as the pricier XM6 model (currently $348), but is down to $198 during Black Friday at Amazon, Best Buy, […]
 
 ---
 
-## 28. [GTA VI developers vote against unionization](https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb)
+## 28. [Yooka-Laylee’s free upgrade is skipping Xbox](https://www.theverge.com/games/1044715/yooka-laylees-free-upgrade-is-skipping-xbox)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> Workers at Grand Theft Auto VI developer Rockstar Games won't unionize, after the vote for a formal recognition agreement failed, with only 25 percent of votes in favor of unionization. The Independent Workers Union of Great Britain (IWGB) said that Rockstar workers in the union will continue organizing even without formal recognition. Voting ran from […]
+> Playtronic Games is getting ready to launch Yooka-Laylee and the Impossible Lair: Definitive Edition as a free update on PlayStation 5, Switch 2, and PC on December 15th. Unfortunately for Xbox owners, the developer says it "can't commit to any additional platforms for the foreseeable future." In a statement posted on X, Playtronic said that […]
 
 ---
 
-## 29. [Why GTA VI’s version of Florida feels so real](https://www.theverge.com/entertainment/1042629/gta-6-city-design)
+## 29. [Many of our favorite Blu-ray movies are over 50 percent off for Black Friday](https://www.theverge.com/gadgets/1040471/4k-bluray-movie-film-black-friday-deal-sale)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> There are plenty of reasons why Grand Theft Auto VI is so popular: the 13 years of anticipation, the relatable lead characters and romantic storyline, the sheer level of depth. But another major factor is the sense of place. The GTA series is unmatched when it comes to re-creating the feeling of a bustling, real-world […]
+> No shade to those who love their subscription services, but viewing physical movies is a time-honored tradition that shouldn’t go away. Watching them doesn’t feel all that different, but deciding which movie to watch feels less annoying; sifting through a movie collection on your shelf or in a storage binder is so much more fun […]
 
 ---
 
-## 30. [Here’s where you can save (a little) on the Ocarina of Time remake](https://www.theverge.com/gadgets/1040110/zelda-ocarina-of-time-switch-2-black-friday-2026-deal-sale)
+## 30. [The new iPad Mini is getting its first major discount for Black Friday](https://www.theverge.com/gadgets/1042705/ipad-mini-black-friday-deal-sale-2026)
 
 - **Nguon:** The Verge
 - **Thoi gian dang:** Chua ro
 
-> A lot of people have The Legend of Zelda: Ocarina of Time for the Nintendo Switch 2 on their holiday wishlist. In case you haven’t bought it yet, I wanted to share some small but welcome deals happening on the physical and digital versions of the game. Costco members can currently grab the cartridge edition […]
+> We were big fans of Apple’s new iPad Mini when we reviewed it in early November, but its steep starting price of $699 was hard to swallow. Thankfully, the small tablet is already getting a sizable discount for Black Friday. Right now, Amazon and Walmart are both selling the 2026 iPad Mini with Wi-Fi and […]
 
 ---
